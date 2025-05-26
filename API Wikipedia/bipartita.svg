@@ -1,0 +1,2007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3232.5293"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1467.653564 -1533.000000 3232.529297 2879.000000" height="2879.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d83d8e9e01307b6bb7e973992af64308 id_author_56f1582432d94983a3f45c249e0d76be"
+              d="M -630.068481,531.499939 A 158.602848,158.602848 0,0 1,-587.546387,403.346771"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d83d8e9e01307b6bb7e973992af64308 id_author_b433c0076d463c7d30518d483cd7f498"
+              d="M -648.099792,581.738892 A 288.572427,288.572427 0,0 1,-946.049072,600.882202"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d83d8e9e01307b6bb7e973992af64308 id_author_9d889367cfa905172e5f7862321c7f13"
+              d="M -610.271057,591.115906 A 145.535412,145.535412 0,0 1,-623.075317,709.464600"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d83d8e9e01307b6bb7e973992af64308 id_author_5c6eeb110adf837c6a571679384a1246"
+              d="M -654.606201,559.005188 A 152.613125,152.613125 0,0 1,-759.593750,477.736938"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d83d8e9e01307b6bb7e973992af64308 id_author_f2099d278b2d08ae1aab9186832deb11"
+              d="M -637.364807,590.537170 A 189.186368,189.186368 0,0 1,-791.249451,680.932373"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d742cf549e17cb53774476a5f36641df id_author_e8eaa9ef4629d22e714908c4d56f117c"
+              d="M 160.578262,-700.438782 A 215.096147,215.096147 0,0 1,-31.981436,-617.027893"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d742cf549e17cb53774476a5f36641df id_author_8eb23c9db63618a7c828b9ef234c61f5"
+              d="M 183.721375,-695.843018 A 123.596784,123.596784 0,0 1,149.820206,-603.311340"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d742cf549e17cb53774476a5f36641df id_author_2c7b78a073a836c702255501f090a619"
+              d="M 147.676361,-736.142273 A 225.235409,225.235409 0,0 1,6.848085,-907.900208"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d742cf549e17cb53774476a5f36641df id_author_d780182f77b121450849c2b088a444f0"
+              d="M 209.420639,-726.328247 A 208.981582,208.981582 0,0 1,376.711029,-612.311035"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d742cf549e17cb53774476a5f36641df id_author_5cf476916d4dee8d79ff3e6e2f46b667"
+              d="M 189.409912,-756.244812 A 172.728837,172.728837 0,0 1,317.677338,-849.352112"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_1d9e016a0a12f8b654e89042678a893a id_author_17c78e8b1934fecb37c2d2fda7eff6f8"
+              d="M 1363.945435,164.607452 A 145.752074,145.752074 0,0 1,1480.186768,124.026505"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_1d9e016a0a12f8b654e89042678a893a id_author_ed0ff1f81a909a7d6a1adabe4e9418f5"
+              d="M 1308.912720,199.319153 A 179.246247,179.246247 0,0 1,1154.125732,145.340637"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_1d9e016a0a12f8b654e89042678a893a id_author_b72b705144a5977d3e7e20d0d829b9e5"
+              d="M 1312.329834,174.548218 A 199.935422,199.935422 0,0 1,1224.563843,7.118622"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_1d9e016a0a12f8b654e89042678a893a id_author_8e6c7c3e3bc418d6b52facc052fc124e"
+              d="M 1332.457275,158.396637 A 205.185170,205.185170 0,0 1,1388.119629,-28.908888"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_1d9e016a0a12f8b654e89042678a893a id_author_ee7e4705dd4ac06adfe650c2cdc39bdd"
+              d="M 1343.532715,225.642776 A 264.573201,264.573201 0,0 1,1203.027222,451.516632"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_1d9e016a0a12f8b654e89042678a893a id_author_144ac0f63a6c8179e3ffd1011c77169c"
+              d="M 1376.637695,193.003677 A 271.142618,271.142618 0,0 1,1596.514282,358.406738"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_1d9e016a0a12f8b654e89042678a893a id_author_056f631f2aa1fe7f52be22e23b9c95d1"
+              d="M 1372.664917,207.423691 A 275.110920,275.110920 0,0 1,1503.494019,454.902679"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_250b0e0effa307968d337127087714cb id_author_655b27de0534bdb916b17f31fff641af"
+              d="M -851.773438,330.950806 A 298.539112,298.539112 0,0 1,-1131.147217,198.023987"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_250b0e0effa307968d337127087714cb id_author_421b4235a72b264518d057b13be98499"
+              d="M -833.611572,355.485748 A 289.179345,289.179345 0,0 1,-1092.296265,503.628510"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_250b0e0effa307968d337127087714cb id_author_5c6eeb110adf837c6a571679384a1246"
+              d="M -793.977539,347.048523 A 113.157509,113.157509 0,0 1,-765.520813,425.125397"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_250b0e0effa307968d337127087714cb id_author_92bfb5c186ef6dfc4525688369364fe1"
+              d="M -844.881409,346.511749 A 226.754269,226.754269 0,0 1,-1065.398804,367.518005"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_250b0e0effa307968d337127087714cb id_author_6bbccd383dbeb26587cdbd63a270ede9"
+              d="M -851.209961,317.925140 A 204.816874,204.816874 0,0 1,-984.721863,174.181061"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_250b0e0effa307968d337127087714cb id_author_f1b06d9387901ad80c5b80cd1f737405"
+              d="M -839.746033,300.049561 A 181.926478,181.926478 0,0 1,-857.177490,133.773605"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e0df36fcb80a369e9bcead87fbbbacd6 id_author_1a44c31d804adad139439f5b911c11f0"
+              d="M -1275.635132,327.850098 A 112.843445,112.843445 0,0 1,-1351.275635,372.659454"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e0df36fcb80a369e9bcead87fbbbacd6 id_author_f8464fafa00f8ef5e82f0bf5a4f4f308"
+              d="M -1287.909912,290.942474 A 120.494711,120.494711 0,0 1,-1344.030151,211.443298"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e0df36fcb80a369e9bcead87fbbbacd6 id_author_92bfb5c186ef6dfc4525688369364fe1"
+              d="M -1233.757690,295.521454 A 149.714718,149.714718 0,0 1,-1107.887329,334.443756"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_6c143e14914fb5ca36220fbcb2de1834 id_author_bc646be3146f2cf27fd63a9f687ee7ab"
+              d="M -573.803345,1172.191406 A 114.055171,114.055171 0,0 1,-609.874023,1249.722656"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_6c143e14914fb5ca36220fbcb2de1834 id_author_878bb9050b9accff9303ebacb72d99bf"
+              d="M -608.798645,1147.653076 A 224.213884,224.213884 0,0 1,-816.495178,1076.150879"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_6c143e14914fb5ca36220fbcb2de1834 id_author_9d889367cfa905172e5f7862321c7f13"
+              d="M -599.531555,1115.412231 A 340.725008,340.725008 0,0 1,-656.665527,765.774231"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_6c143e14914fb5ca36220fbcb2de1834 id_author_69f77fe668c8aa5d02d2f205c1adc52d"
+              d="M -601.966431,1160.770508 A 222.460115,222.460115 0,0 1,-817.903320,1187.119263"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_6c143e14914fb5ca36220fbcb2de1834 id_author_7d8bc5f1a8d3787d06ef11c97d4655df"
+              d="M -545.076172,1130.744751 A 200.464800,200.464800 0,0 1,-363.488556,1189.674805"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_6c143e14914fb5ca36220fbcb2de1834 id_author_ffe5e140285ce53e4316b22ade8f1f45"
+              d="M -548.294250,1155.768433 A 171.784687,171.784687 0,0 1,-475.869568,1294.056641"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_c08a1d0a0eaafdac71ce1a803dc52927 id_author_720feaa59e934f0b1e9a5d2aa234c585"
+              d="M -317.961029,-1258.868164 A 206.215507,206.215507 0,0 1,-484.254547,-1149.378662"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_c08a1d0a0eaafdac71ce1a803dc52927 id_author_d678b45c0140ec54e62abf895d9e4458"
+              d="M -284.086884,-1264.583374 A 178.529758,178.529758 0,0 1,-255.789368,-1101.477783"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_c08a1d0a0eaafdac71ce1a803dc52927 id_author_7d73fd46a2193a55ff891471f73b0212"
+              d="M -336.799500,-1284.272339 A 194.654330,194.654330 0,0 1,-502.393036,-1366.978638"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_c08a1d0a0eaafdac71ce1a803dc52927 id_author_3b5e692bb82af2562beb3873911ddc83"
+              d="M -304.836761,-1319.412476 A 140.159080,140.159080 0,0 1,-240.769577,-1419.489258"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_c08a1d0a0eaafdac71ce1a803dc52927 id_author_999568289fca5fe71cfaa7eca94afe50"
+              d="M -273.904022,-1289.520508 A 169.476312,169.476312 0,0 1,-139.303589,-1213.579468"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_7fe39e41577cc2940ad8dd4132439115 id_author_dd7c8a297a8d34ba5dc7cd4b45a1e593"
+              d="M 983.321594,904.550110 A 147.410654,147.410654 0,0 1,1099.625244,947.198425"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_7fe39e41577cc2940ad8dd4132439115 id_author_2f2e3dead9a0de14057b96f159b3d411"
+              d="M 954.613464,946.973083 A 153.736325,153.736325 0,0 1,905.600342,1069.111450"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_7fe39e41577cc2940ad8dd4132439115 id_author_e0f0e661e73da22a8c591d0a5e81dc54"
+              d="M 912.940063,916.975769 A 152.786910,152.786910 0,0 1,793.437683,864.674255"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_7fe39e41577cc2940ad8dd4132439115 id_author_501464200a7cab319056c38d043e84d4"
+              d="M 969.462524,882.961670 A 152.098879,152.098879 0,0 1,1089.834473,834.916748"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_7fe39e41577cc2940ad8dd4132439115 id_author_89c913ced4e4137c76a51d50750b61ea"
+              d="M 919.510986,890.602234 A 140.121264,140.121264 0,0 1,876.222839,784.108337"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_7fe39e41577cc2940ad8dd4132439115 id_author_13a74e2baca782a5aac457961be17a5a"
+              d="M 942.234131,876.553284 A 140.863616,140.863616 0,0 1,985.240112,768.965332"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_7fe39e41577cc2940ad8dd4132439115 id_author_736aea555e8f175cf9e2c3583a8a4095"
+              d="M 926.684570,940.249878 A 131.170992,131.170992 0,0 1,830.004028,978.516357"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_7fe39e41577cc2940ad8dd4132439115 id_author_85a28511a44da8a4c6140042a43b0b4b"
+              d="M 976.836792,933.331543 A 147.954337,147.954337 0,0 1,1021.678223,1049.520142"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_2cac3c3e82ef96ae5aa7445588fadcf5 id_author_6ff47afa5dc7daa42cc705a03fca8a9b"
+              d="M 657.642578,373.296570 A 116.137958,116.137958 0,0 1,666.764832,281.784821"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_2cac3c3e82ef96ae5aa7445588fadcf5 id_author_b1f4f9a523e36fd969f4573e25af4540"
+              d="M 640.908447,399.423401 A 127.878540,127.878540 0,0 1,549.804810,344.543518"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_2cac3c3e82ef96ae5aa7445588fadcf5 id_author_5d01e016da53d8a8d99282c4edaa2c81"
+              d="M 657.146057,425.344849 A 115.909000,115.909000 0,0 1,580.892456,476.250275"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e744f898e8a055a26a49c895c285ddd1 id_author_42bdbacdfc0ab8d8a7a7309db05931e9"
+              d="M 790.575684,-211.333267 A 103.625255,103.625255 0,0 1,788.472412,-286.554840"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e744f898e8a055a26a49c895c285ddd1 id_author_3814b75f5a4d07d3d270e9931ab6d985"
+              d="M 828.405762,-165.059418 A 105.500592,105.500592 0,0 1,851.701599,-91.072243"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e744f898e8a055a26a49c895c285ddd1 id_author_57459987aab40426ef1cb307b3790ab2"
+              d="M 796.367554,-157.018539 A 126.705254,126.705254 0,0 1,716.889099,-90.498543"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e744f898e8a055a26a49c895c285ddd1 id_author_1116d70f3af1555dd95b361a7619eb1b"
+              d="M 776.805115,-178.870697 A 125.875354,125.875354 0,0 1,679.302551,-210.889999"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_149d5deddfe7580b4e2002313be48f37 id_author_65fbef05e01fac390cb3fa073fb3e8cf"
+              d="M 837.155701,-896.586609 A 243.094117,243.094117 0,0 1,642.219421,-750.350708"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_149d5deddfe7580b4e2002313be48f37 id_author_73fb108558a4cd60de719b4bce09b5f7"
+              d="M 875.458679,-941.235596 A 208.251741,208.251741 0,0 1,1076.188721,-922.889648"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_149d5deddfe7580b4e2002313be48f37 id_author_9428e3f7c2623b68bb03aa48dde227ae"
+              d="M 817.635620,-916.437622 A 228.576778,228.576778 0,0 1,599.451965,-975.934753"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_149d5deddfe7580b4e2002313be48f37 id_author_c524ef418b2410152716900c7245677b"
+              d="M 868.465149,-902.685852 A 228.713980,228.713980 0,0 1,899.002197,-678.439270"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_149d5deddfe7580b4e2002313be48f37 id_author_23ba6002aa3583a61db26e957b1fbe43"
+              d="M 825.754517,-949.172913 A 112.890608,112.890608 0,0 1,805.782715,-1032.183472"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_54d85ad5220660f9b1e057e2a79d8635 id_author_3bdf99c356acc9a8368ea4bc139c1571"
+              d="M -346.329895,-285.063354 A 149.000912,149.000912 0,0 1,-370.937683,-412.326447"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_54d85ad5220660f9b1e057e2a79d8635 id_author_828cab178783fd2ed9becce099e16922"
+              d="M -295.842896,-274.305511 A 150.078869,150.078869 0,0 1,-166.437698,-254.349945"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_54d85ad5220660f9b1e057e2a79d8635 id_author_3a91048fb1dd326eb77c7bcb22910609"
+              d="M -299.377686,-243.284042 A 174.974435,174.974435 0,0 1,-240.929169,-93.026421"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_54d85ad5220660f9b1e057e2a79d8635 id_author_875462af044569c47f109276cc7e57cd"
+              d="M -324.294922,-293.467682 A 155.165323,155.165323 0,0 1,-249.370300,-408.323761"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_54d85ad5220660f9b1e057e2a79d8635 id_author_dfcd5f6797c0b6708f3bdc019e5ce660"
+              d="M -332.358215,-231.229691 A 162.343909,162.343909 0,0 1,-435.934479,-130.295761"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_6742dfc659daa2c9844d75ee5104c984 id_author_857b102af3c50af7ad249bc8165ce9fc"
+              d="M 477.680511,1133.848511 A 157.398853,157.398853 0,0 1,373.893555,1036.414795"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_6742dfc659daa2c9844d75ee5104c984 id_author_42db7cd9baf5dd1edaaeafb9238bfb1b"
+              d="M 504.204376,1110.636475 A 110.637355,110.637355 0,0 1,542.463684,1034.506470"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_6742dfc659daa2c9844d75ee5104c984 id_author_ddc709c6b81de25a6234e5ca67702f63"
+              d="M 491.111511,1164.047852 A 199.377332,199.377332 0,0 1,317.227539,1248.412598"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_28940377dbd09be324ad8709a030517f id_author_288a92a44c72633ca5df65aeed2cb76e"
+              d="M -448.315002,863.668335 A 188.395327,188.395327 0,0 1,-273.243347,827.627014"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_28940377dbd09be324ad8709a030517f id_author_9581afae8cd25231b7d2c7bf22fad9fa"
+              d="M -440.538910,892.131287 A 222.962816,222.962816 0,0 1,-291.868347,1053.431396"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_28940377dbd09be324ad8709a030517f id_author_9d889367cfa905172e5f7862321c7f13"
+              d="M -499.676819,880.423157 A 190.262316,190.262316 0,0 1,-632.990601,767.315613"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_28940377dbd09be324ad8709a030517f id_author_4f9f8f235d12c7429635614cf8156975"
+              d="M -456.121307,911.726868 A 138.414733,138.414733 0,0 1,-465.333466,1029.331787"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_a6eadc686a75c71d1073356763ca697c id_author_ca3fb08ad28186b130d794369445ec3b"
+              d="M 1335.493896,-642.503906 A 296.601474,296.601474 0,0 1,1042.659058,-538.900208"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_a6eadc686a75c71d1073356763ca697c id_author_8601f6e1028a8e8a966f6c33fcd9aec4"
+              d="M 1346.532837,-637.580078 A 195.474693,195.474693 0,0 1,1214.606201,-504.596863"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_a6eadc686a75c71d1073356763ca697c id_author_4490909b57b426ad977791d4727f9488"
+              d="M 1327.567261,-651.320618 A 224.608374,224.608374 0,0 1,1104.201416,-664.900208"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_3284fa4c8ce7680cd67dfd164a1482ac id_author_56f1582432d94983a3f45c249e0d76be"
+              d="M -132.411880,248.592300 A 394.672353,394.672353 0,0 1,-530.657654,390.564484"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_3284fa4c8ce7680cd67dfd164a1482ac id_author_a71ea9a40f4903ec94a4810001dca488"
+              d="M -86.837029,227.563950 A 186.003487,186.003487 0,0 1,53.791626,335.168304"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_3284fa4c8ce7680cd67dfd164a1482ac id_author_f8b5456ce7e3aba2fbcc078722205d15"
+              d="M -127.480850,199.087036 A 164.052944,164.052944 0,0 1,-107.066856,50.035324"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_1c75cbfb675d50319333f2ecbe9ccb9e id_author_ee7e4705dd4ac06adfe650c2cdc39bdd"
+              d="M 1138.424316,315.749908 A 146.074963,146.074963 0,0 1,1183.422974,436.190674"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_1c75cbfb675d50319333f2ecbe9ccb9e id_author_8596d6c233492e0bd1ce63bc500fc001"
+              d="M 1089.699097,302.542450 A 120.578659,120.578659 0,0 1,998.841614,263.995911"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_2ca107b796490695c06044285c36509d id_author_6f1d4fe183fb610eb0f4f77b648c6e98"
+              d="M 448.143250,-417.201111 A 126.680801,126.680801 0,0 1,343.196960,-401.162933"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_2ca107b796490695c06044285c36509d id_author_92b6102944956f0581f8b7f95eda78a2"
+              d="M 480.493256,-409.717651 A 126.449173,126.449173 0,0 1,468.162567,-304.556641"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_c48f05b935dd7badc138e8ba0363c546 id_author_572ac92956fa908a23aded492974f71b"
+              d="M -940.987244,-1117.016846 A 179.534269,179.534269 0,0 1,-773.919128,-1150.868408"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_c48f05b935dd7badc138e8ba0363c546 id_author_1e31379e322b1e4a84fa4968043b98e2"
+              d="M -947.138245,-1074.092041 A 142.778709,142.778709 0,0 1,-951.151794,-949.601990"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_450b01387e2d9b4afcf8ade3b9fbbf17 id_author_56f1582432d94983a3f45c249e0d76be"
+              d="M -658.337585,54.595493 A 310.535978,310.535978 0,0 1,-554.529358,349.951935"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_450b01387e2d9b4afcf8ade3b9fbbf17 id_author_17734b78e4329992411e6931c6e987d1"
+              d="M -724.110657,47.806000 A 413.193597,413.193597 0,0 1,-1160.051880,-29.426146"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_450b01387e2d9b4afcf8ade3b9fbbf17 id_author_b3b8150ad5b552fb7813f2f569acb6da"
+              d="M -656.199707,11.593785 A 273.629089,273.629089 0,0 1,-382.054535,26.112206"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_450b01387e2d9b4afcf8ade3b9fbbf17 id_author_b5dda3903158106ef74464a83754d683"
+              d="M -651.504456,39.551582 A 178.281408,178.281408 0,0 1,-538.553894,151.469559"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_450b01387e2d9b4afcf8ade3b9fbbf17 id_author_c71139b163a83131fd61b901ac95bfc3"
+              d="M -690.628662,-7.001328 A 187.767238,187.767238 0,0 1,-603.397278,-153.552536"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_450b01387e2d9b4afcf8ade3b9fbbf17 id_author_6770ba50556a62ee671fad002af8bf04"
+              d="M -724.990112,17.244087 A 256.440267,256.440267 0,0 1,-867.917786,-190.968552"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_450b01387e2d9b4afcf8ade3b9fbbf17 id_author_1a310f09ad7ea27fc14052ca9c1daa07"
+              d="M -727.269226,37.429531 A 297.221820,297.221820 0,0 1,-1000.707825,-93.129524"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_450b01387e2d9b4afcf8ade3b9fbbf17 id_author_f5c814ba6546ec5eb07d83c65f119a64"
+              d="M -713.261780,1.414171 A 152.468065,152.468065 0,0 1,-728.086182,-125.234108"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_450b01387e2d9b4afcf8ade3b9fbbf17 id_author_dfcd5f6797c0b6708f3bdc019e5ce660"
+              d="M -673.846802,-3.841374 A 229.067043,229.067043 0,0 1,-490.016754,-123.646614"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_450b01387e2d9b4afcf8ade3b9fbbf17 id_author_f1b06d9387901ad80c5b80cd1f737405"
+              d="M -710.921997,63.331726 A 145.272325,145.272325 0,0 1,-818.016663,111.491905"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_3c75323e7cf0b9d32180fc9e214043bb id_author_03d74511e7275805990002b86e82a7ba"
+              d="M 245.675125,-176.370895 A 116.216057,116.216057 0,0 1,308.418915,-105.532257"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_c947c2614945d4b851f34b956a8140be id_author_56f1582432d94983a3f45c249e0d76be"
+              d="M -360.537384,199.801620 A 244.301265,244.301265 0,0 1,-530.242798,375.035187"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_371adcfdfb3492e83311ec5bef171d3a id_author_00bbff59bcde0f949bc2226f5fc3a755"
+              d="M 333.744324,118.111305 A 116.203367,116.203367 0,0 1,388.435913,40.905216"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_4a4c8a5deb794c1a5eaa350135085549 id_author_9d889367cfa905172e5f7862321c7f13"
+              d="M -699.766541,864.293274 A 137.026387,137.026387 0,0 1,-667.265259,757.979919"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_4a4c8a5deb794c1a5eaa350135085549 id_author_de9c726d494df903479b9eca5872f790"
+              d="M -711.559326,914.606750 A 178.991374,178.991374 0,0 1,-871.927673,966.559937"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_4a4c8a5deb794c1a5eaa350135085549 id_author_38092ec463dcb1126abe9906b440b7fc"
+              d="M -720.642944,901.373474 A 283.955601,283.955601 0,0 1,-1004.629456,820.114136"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_96f5d9db4a18cf0e1879e7d0e35bae13"
+              d="M -978.065979,-586.983276 A 280.358647,280.358647 0,0 1,-811.981384,-365.794159"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_90a8db953336c8dabbcf48b1592a8c06"
+              d="M -978.235901,-616.926331 A 430.109338,430.109338 0,0 1,-537.887451,-493.964966"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_9d668c5961062ed1ab49471cbbfae026"
+              d="M -975.727600,-604.889221 A 369.747173,369.747173 0,0 1,-645.641602,-407.731110"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_df143a5ebd8feb3d6e2e6ca39658888d"
+              d="M -987.962036,-632.872437 A 389.690740,389.690740 0,0 1,-583.690430,-691.610962"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_de0a0e2ca0d866c6fb74fe94905fa63e"
+              d="M -989.476563,-569.012878 A 239.657863,239.657863 0,0 1,-948.838867,-345.338562"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_ccdff99030cd484c33099b3feef6c7fa"
+              d="M -1031.001221,-557.297729 A 227.857632,227.857632 0,0 1,-1184.617310,-409.710632"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_682c3c82d05b4cf65e893441b723e78f"
+              d="M -975.825073,-606.063110 A 198.212578,198.212578 0,0 1,-818.996704,-524.003357"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_1e31379e322b1e4a84fa4968043b98e2"
+              d="M -1038.542725,-643.741638 A 274.656259,274.656259 0,0 1,-985.050171,-906.850159"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_173aa89792b97e1171c7e7a4e3948079"
+              d="M -1061.754272,-622.176147 A 218.775753,218.775753 0,0 1,-1162.164795,-797.453552"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_6770ba50556a62ee671fad002af8bf04"
+              d="M -983.963806,-575.444458 A 343.753699,343.753699 0,0 1,-862.703735,-245.045425"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_b4a3d709976130caa992967a4fecfaa5"
+              d="M -978.936218,-618.772034 A 306.340116,306.340116 0,0 1,-678.144287,-552.553772"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_175da787d9592c6b4161b641eb682503"
+              d="M -1051.996216,-568.294067 A 156.500251,156.500251 0,0 1,-1173.655151,-535.343262"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_50ea316ccc59596e79b70578c481e188"
+              d="M -1064.873657,-589.238708 A 203.301345,203.301345 0,0 1,-1239.784180,-643.698181"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_a2489f493a39341d46e077b13c466ced"
+              d="M -1013.236694,-556.898499 A 327.692655,327.692655 0,0 1,-1152.302979,-253.480286"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7 id_author_5fd49cac88e9505654782f06d2a3b84d"
+              d="M -1000.431763,-642.237427 A 237.571529,237.571529 0,0 1,-804.244934,-752.004578"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_3a1e3352ab89fd9ba403079f60c301d3 id_author_bf0e1bd668644504e35e8764ed53a744"
+              d="M 1470.602783,-454.827179 A 331.185620,331.185620 0,0 1,1128.278442,-371.702362"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_3a1e3352ab89fd9ba403079f60c301d3 id_author_8601f6e1028a8e8a966f6c33fcd9aec4"
+              d="M 1464.677734,-462.191193 A 252.263733,252.263733 0,0 1,1209.461060,-481.770599"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_3a1e3352ab89fd9ba403079f60c301d3 id_author_16967a2fdaaadaa3178aaa4f358ee8bf"
+              d="M 1478.154907,-449.968170 A 191.688110,191.688110 0,0 1,1324.285889,-349.143127"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_31e5fb1946b4e92de72dc80ee9d43c55 id_author_56f1582432d94983a3f45c249e0d76be"
+              d="M -295.493835,390.245544 A 240.277014,240.277014 0,0 1,-534.403137,399.224976"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e077f45adc3b9f23f684aa87f224cb4f id_author_7e49dadf2cc69cbae4bff43bb9f7e2e0"
+              d="M 281.716370,-1332.036987 A 235.628856,235.628856 0,0 1,474.006073,-1462.280151"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e077f45adc3b9f23f684aa87f224cb4f id_author_858335ac538c055e0897b5a5c4d77ccc"
+              d="M 298.579346,-1317.261353 A 233.677639,233.677639 0,0 1,527.920959,-1301.426270"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e077f45adc3b9f23f684aa87f224cb4f id_author_7dfaf467a1eef04dc52555b7e2f31eed"
+              d="M 234.450500,-1298.146729 A 194.037773,194.037773 0,0 1,76.245087,-1387.889404"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e077f45adc3b9f23f684aa87f224cb4f id_author_a1fd40d371b03099040ccd271210df8b"
+              d="M 300.854553,-1288.000488 A 167.404600,167.404600 0,0 1,390.310699,-1168.183228"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e077f45adc3b9f23f684aa87f224cb4f id_author_527bd5b5d689e2c32ae974c6229ff785"
+              d="M 246.328659,-1274.185669 A 169.819011,169.819011 0,0 1,100.365326,-1230.133057"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e077f45adc3b9f23f684aa87f224cb4f id_author_286c5715e7d418f4dbc6911b41dd81c4"
+              d="M 269.944885,-1265.886475 A 140.226104,140.226104 0,0 1,212.558594,-1164.658325"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_e077f45adc3b9f23f684aa87f224cb4f id_author_f52412c4ff1dacd2111f4951f3db1260"
+              d="M 251.097275,-1329.701050 A 172.599709,172.599709 0,0 1,255.565765,-1485.485840"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_5b7438c39d756cc000099b0a4bf657ac id_author_56f1582432d94983a3f45c249e0d76be"
+              d="M -390.345154,657.302979 A 294.017246,294.017246 0,0 1,-561.495178,414.894043"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_5b7438c39d756cc000099b0a4bf657ac id_author_e34dbf49259641809d83fc5cce978cc0"
+              d="M -355.930267,635.407043 A 200.750572,200.750572 0,0 1,-241.291046,483.855164"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_5b7438c39d756cc000099b0a4bf657ac id_author_9d889367cfa905172e5f7862321c7f13"
+              d="M -382.198853,694.361877 A 243.439220,243.439220 0,0 1,-611.833130,747.072021"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_5b7438c39d756cc000099b0a4bf657ac id_author_736b19f69aaca691fecd8400294cc383"
+              d="M -345.004700,638.000549 A 280.213027,280.213027 0,0 1,-105.153244,482.058716"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_5b7438c39d756cc000099b0a4bf657ac id_author_0ee099107dc8c1ee2e06666b965601ef"
+              d="M -334.919586,644.504089 A 242.654079,242.654079 0,0 1,-100.663719,589.012390"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_5b7438c39d756cc000099b0a4bf657ac id_author_a4c6e989698f253a890b9173e7f052e5"
+              d="M -324.180939,665.610535 A 163.223959,163.223959 0,0 1,-193.808182,727.780701"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_5b7438c39d756cc000099b0a4bf657ac id_author_74bfd9ef311ff42cca44edfb24c3fced"
+              d="M -327.964478,653.545166 A 267.817550,267.817550 0,0 1,-58.355946,682.229126"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_9c9c1d54f3aa26beb29bb82b3eb088ef id_author_9581afae8cd25231b7d2c7bf22fad9fa"
+              d="M -124.989143,1058.582275 A 159.280542,159.280542 0,0 1,-261.260315,1089.048340"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_9c9c1d54f3aa26beb29bb82b3eb088ef id_author_5030957b53cf8f299017ba6157eae082"
+              d="M -80.098228,1010.383301 A 264.536173,264.536173 0,0 1,178.541443,938.763184"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_9c9c1d54f3aa26beb29bb82b3eb088ef id_author_2bdd4b39af8beeb249eb941e42637827"
+              d="M -111.909378,1004.185852 A 118.420227,118.420227 0,0 1,-92.784042,915.331055"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_9c9c1d54f3aa26beb29bb82b3eb088ef id_author_9d889367cfa905172e5f7862321c7f13"
+              d="M -134.272354,1038.949951 A 515.596903,515.596903 0,0 1,-628.379639,765.482300"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_9c9c1d54f3aa26beb29bb82b3eb088ef id_author_f5f504c7ae35a64d63f0f2537921e00b"
+              d="M -69.147118,1041.815308 A 136.708954,136.708954 0,0 1,14.376212,1118.422729"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_theory_9c9c1d54f3aa26beb29bb82b3eb088ef id_author_9121412eb811253e4bf604eeaa9ca13c"
+              d="M -75.418716,1055.629639 A 178.996321,178.996321 0,0 1,-20.185705,1210.970825"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#3fb17d" r="15.785714" cx="-623.209"
+                class="id_theory_d83d8e9e01307b6bb7e973992af64308" cy="562.3172"
+                stroke="#2c7b57" stroke-opacity="1.0" stroke-width="31.571428"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="15.785714" cx="177.85376"
+                class="id_theory_d742cf549e17cb53774476a5f36641df"
+                cy="-726.8644" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="31.571428"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="17.178572" cx="1342.3225"
+                class="id_theory_1d9e016a0a12f8b654e89042678a893a"
+                cy="191.30696" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="34.357143"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="16.482143" cx="-819.2086"
+                class="id_theory_250b0e0effa307968d337127087714cb"
+                cy="325.83444" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="32.964287"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="14.392858" cx="-1261.6343"
+                class="id_theory_e0df36fcb80a369e9bcead87fbbbacd6"
+                cy="302.69867" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="28.785715"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="16.482143" cx="-576.8915"
+                class="id_theory_6c143e14914fb5ca36220fbcb2de1834"
+                cy="1139.3721" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="32.964287"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="15.785714" cx="-305.43106"
+                class="id_theory_c08a1d0a0eaafdac71ce1a803dc52927"
+                cy="-1287.8467" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="31.571428"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="17.875" cx="948.3109"
+                class="id_theory_7fe39e41577cc2940ad8dd4132439115" cy="911.783"
+                stroke="#2c7b57" stroke-opacity="1.0" stroke-width="35.75"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="14.392858" cx="669.69415"
+                class="id_theory_2cac3c3e82ef96ae5aa7445588fadcf5"
+                cy="399.43805" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="28.785715"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="15.089286" cx="806.23816"
+                class="id_theory_e744f898e8a055a26a49c895c285ddd1"
+                cy="-185.53726" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="30.178572"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="15.785714" cx="847.6006"
+                class="id_theory_149d5deddfe7580b4e2002313be48f37"
+                cy="-926.38025" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="31.571428"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="15.785714" cx="-324.87558"
+                class="id_theory_54d85ad5220660f9b1e057e2a79d8635"
+                cy="-261.90158" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="31.571428"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="14.392858" cx="505.93164"
+                class="id_theory_6742dfc659daa2c9844d75ee5104c984"
+                cy="1139.3704" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="28.785715"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="15.089286" cx="-469.82294"
+                class="id_theory_28940377dbd09be324ad8709a030517f" cy="884.838"
+                stroke="#2c7b57" stroke-opacity="1.0" stroke-width="30.178572"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="14.392858" cx="1352.4781"
+                class="id_theory_a6eadc686a75c71d1073356763ca697c"
+                cy="-665.7451" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="28.785715"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="14.392858" cx="-115.53163"
+                class="id_theory_3284fa4c8ce7680cd67dfd164a1482ac"
+                cy="225.27547" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="28.785715"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="13.696428" cx="1116.8455"
+                class="id_theory_1c75cbfb675d50319333f2ecbe9ccb9e"
+                cy="298.87625" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="27.392857"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="13.696428" cx="469.22885"
+                class="id_theory_2ca107b796490695c06044285c36509d"
+                cy="-434.68726" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="27.392857"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="13.696428" cx="-960.6349"
+                class="id_theory_c48f05b935dd7badc138e8ba0363c546"
+                cy="-1097.9292" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="27.392857"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="19.267857" cx="-689.1913"
+                class="id_theory_450b01387e2d9b4afcf8ade3b9fbbf17" cy="31.50757"
+                stroke="#2c7b57" stroke-opacity="1.0" stroke-width="38.535713"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="13.0" cx="220.95053"
+                class="id_theory_3c75323e7cf0b9d32180fc9e214043bb"
+                cy="-184.41417" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="13.0" cx="-355.54053"
+                class="id_theory_c947c2614945d4b851f34b956a8140be" cy="174.2863"
+                stroke="#2c7b57" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="13.0" cx="331.5386"
+                class="id_theory_371adcfdfb3492e83311ec5bef171d3a"
+                cy="144.01758" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="14.392858" cx="-693.3096"
+                class="id_theory_4a4c8a5deb794c1a5eaa350135085549"
+                cy="892.34546" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="28.785715"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="25.5" cx="-1021.11646"
+                class="id_theory_d98a2b4040f59f1322951e618c99d3e7" cy="-601.711"
+                stroke="#2c7b57" stroke-opacity="1.0" stroke-width="40.0"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="14.392858" cx="1489.7635"
+                class="id_theory_3a1e3352ab89fd9ba403079f60c301d3"
+                cy="-476.30933" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="28.785715"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="13.0" cx="-274.21906"
+                class="id_theory_31e5fb1946b4e92de72dc80ee9d43c55" cy="375.2995"
+                stroke="#2c7b57" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="17.178572" cx="268.74487"
+                class="id_theory_e077f45adc3b9f23f684aa87f224cb4f"
+                cy="-1300.2227" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="34.357143"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="17.178572" cx="-358.2959"
+                class="id_theory_5b7438c39d756cc000099b0a4bf657ac" cy="669.6827"
+                stroke="#2c7b57" stroke-opacity="1.0" stroke-width="34.357143"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="16.482143" cx="-101.49321"
+                class="id_theory_9c9c1d54f3aa26beb29bb82b3eb088ef"
+                cy="1035.4612" stroke="#2c7b57" stroke-opacity="1.0"
+                stroke-width="32.964287"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1505.7214"
+                class="id_author_17c78e8b1934fecb37c2d2fda7eff6f8"
+                cy="128.92366" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-809.8571"
+                class="id_author_96f5d9db4a18cf0e1879e7d0e35bae13"
+                cy="-339.88107" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-1144.4797"
+                class="id_author_655b27de0534bdb916b17f31fff641af"
+                cy="175.70259" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="16.482143" cx="-562.4749"
+                class="id_author_56f1582432d94983a3f45c249e0d76be" cy="381.9443"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="32.964287"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1137.6211"
+                class="id_author_ed0ff1f81a909a7d6a1adabe4e9418f5"
+                cy="125.250885" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-57.644035"
+                class="id_author_e8eaa9ef4629d22e714908c4d56f117c"
+                cy="-621.20294" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1116.3228"
+                class="id_author_dd7c8a297a8d34ba5dc7cd4b45a1e593" cy="967.1281"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="885.0958"
+                class="id_author_2f2e3dead9a0de14057b96f159b3d411"
+                cy="1085.0979" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="616.2745"
+                class="id_author_65fbef05e01fac390cb3fa073fb3e8cf"
+                cy="-748.6595" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-1178.6777"
+                class="id_author_17734b78e4329992411e6931c6e987d1"
+                cy="-47.566593" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1103.9618"
+                class="id_author_bf0e1bd668644504e35e8764ed53a744"
+                cy="-380.90564" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-248.9127"
+                class="id_author_288a92a44c72633ca5df65aeed2cb76e" cy="836.7932"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="681.8423"
+                class="id_author_6ff47afa5dc7daa42cc705a03fca8a9b"
+                cy="260.60297" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-1118.239"
+                class="id_author_421b4235a72b264518d057b13be98499"
+                cy="501.90372" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-520.98096"
+                class="id_author_90a8db953336c8dabbcf48b1592a8c06"
+                cy="-474.21222" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.696428" cx="-287.26358"
+                class="id_author_9581afae8cd25231b7d2c7bf22fad9fa"
+                cy="1080.4344" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="27.392857"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="537.38745"
+                class="id_author_b1f4f9a523e36fd969f4573e25af4540"
+                cy="321.70038" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-217.00722"
+                class="id_author_e34dbf49259641809d83fc5cce978cc0"
+                cy="474.56564" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-510.25146"
+                class="id_author_720feaa59e934f0b1e9a5d2aa234c585"
+                cy="-1148.9785" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="62.746395"
+                class="id_author_a71ea9a40f4903ec94a4810001dca488"
+                cy="359.57758" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="499.99808"
+                class="id_author_7e49dadf2cc69cbae4bff43bb9f7e2e0"
+                cy="-1462.9253" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-360.98373"
+                class="id_author_b3b8150ad5b552fb7813f2f569acb6da" cy="41.34447"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-362.11145"
+                class="id_author_3bdf99c356acc9a8368ea4bc139c1571"
+                cy="-436.78247" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-146.40399"
+                class="id_author_828cab178783fd2ed9becce099e16922"
+                cy="-237.77737" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-532.00116"
+                class="id_author_b5dda3903158106ef74464a83754d683"
+                cy="176.63028" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-630.77716"
+                class="id_author_bc646be3146f2cf27fd63a9f687ee7ab"
+                cy="1265.1842" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-1377.2709"
+                class="id_author_1a44c31d804adad139439f5b911c11f0"
+                cy="373.15878" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-580.4958"
+                class="id_author_c71139b163a83131fd61b901ac95bfc3"
+                cy="-165.8619" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="367.08316"
+                class="id_author_857b102af3c50af7ad249bc8165ce9fc"
+                cy="1011.3226" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="203.29407"
+                class="id_author_5030957b53cf8f299017ba6157eae082" cy="946.7198"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="319.0858"
+                class="id_author_6f1d4fe183fb610eb0f4f77b648c6e98"
+                cy="-410.89185" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-265.5101"
+                class="id_author_d678b45c0140ec54e62abf895d9e4458"
+                cy="-1077.3633" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="548.7932"
+                class="id_author_858335ac538c055e0897b5a5c4d77ccc"
+                cy="-1285.9231" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="564.0382"
+                class="id_author_42db7cd9baf5dd1edaaeafb9238bfb1b"
+                cy="1019.99646" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1017.4992"
+                class="id_author_ca3fb08ad28186b130d794369445ec3b"
+                cy="-545.4562" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-634.32227"
+                class="id_author_9d668c5961062ed1ab49471cbbfae026"
+                cy="-384.3244" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-968.5526"
+                class="id_author_b433c0076d463c7d30518d483cd7f498"
+                cy="587.85944" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-560.1758"
+                class="id_author_df143a5ebd8feb3d6e2e6ca39658888d"
+                cy="-680.51764" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-832.6269"
+                class="id_author_878bb9050b9accff9303ebacb72d99bf"
+                cy="1055.7605" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1226.5032"
+                class="id_author_b72b705144a5977d3e7e20d0d829b9e5"
+                cy="-18.808952" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="63.781166"
+                class="id_author_7dfaf467a1eef04dc52555b7e2f31eed"
+                cy="-1410.7072" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="392.92245"
+                class="id_author_a1fd40d371b03099040ccd271210df8b"
+                cy="-1142.3147" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1096.748"
+                class="id_author_73fb108558a4cd60de719b4bce09b5f7"
+                cy="-906.9739" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="130.00446"
+                class="id_author_8eb23c9db63618a7c828b9ef234c61f5"
+                cy="-586.47876" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-75.72087"
+                class="id_author_2bdd4b39af8beeb249eb941e42637827" cy="895.7135"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="16.482143" cx="-642.8299"
+                class="id_author_9d889367cfa905172e5f7862321c7f13" cy="735.854"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="32.964287"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-79.15366"
+                class="id_author_736b19f69aaca691fecd8400294cc383"
+                cy="482.20612" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.696428" cx="-769.5552"
+                class="id_author_5c6eeb110adf837c6a571679384a1246"
+                cy="452.21954" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="27.392857"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1407.6279"
+                class="id_author_8e6c7c3e3bc418d6b52facc052fc124e"
+                cy="-46.096886" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-749.6526"
+                class="id_author_572ac92956fa908a23aded492974f71b"
+                cy="-1141.5337" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="452.39267"
+                class="id_author_92b6102944956f0581f8b7f95eda78a2"
+                cy="-283.88516" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="75.16755"
+                class="id_author_527bd5b5d689e2c32ae974c6229ff785"
+                cy="-1236.5417" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-958.2096"
+                class="id_author_de0a0e2ca0d866c6fb74fe94905fa63e"
+                cy="-321.08594" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="190.18344"
+                class="id_author_286c5715e7d418f4dbc6911b41dd81c4"
+                cy="-1151.4163" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-1209.9799"
+                class="id_author_ccdff99030cd484c33099b3feef6c7fa"
+                cy="-403.98865" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-897.1213"
+                class="id_author_de9c726d494df903479b9eca5872f790" cy="960.1347"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.696428" cx="1178.1946"
+                class="id_author_ee7e4705dd4ac06adfe650c2cdc39bdd"
+                cy="463.07996" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="27.392857"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-841.3384"
+                class="id_author_69f77fe668c8aa5d02d2f205c1adc52d"
+                cy="1175.8589" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="778.0777"
+                class="id_author_e0f0e661e73da22a8c591d0a5e81dc54" cy="843.6964"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-805.1803"
+                class="id_author_682c3c82d05b4cf65e893441b723e78f"
+                cy="-501.97824" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-515.8779"
+                class="id_author_7d73fd46a2193a55ff891471f73b0212"
+                cy="-1389.2083" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="800.2338"
+                class="id_author_42bdbacdfc0ab8d8a7a7309db05931e9"
+                cy="-309.74252" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-817.23865"
+                class="id_author_f2099d278b2d08ae1aab9186832deb11" cy="680.1825"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="846.66504"
+                class="id_author_3814b75f5a4d07d3d270e9931ab6d985"
+                cy="-65.564735" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="691.27606"
+                class="id_author_57459987aab40426ef1cb307b3790ab2"
+                cy="-86.029495" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-1346.3909"
+                class="id_author_f8464fafa00f8ef5e82f0bf5a4f4f308"
+                cy="185.55069" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="291.41306"
+                class="id_author_ddc709c6b81de25a6234e5ca67702f63"
+                cy="1245.3123" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1115.5581"
+                class="id_author_501464200a7cab319056c38d043e84d4" cy="838.6979"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-245.63977"
+                class="id_author_3a91048fb1dd326eb77c7bcb22910609"
+                cy="-67.45671" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="22.206573"
+                class="id_author_f5f504c7ae35a64d63f0f2537921e00b"
+                cy="1143.2156" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.696428" cx="1187.8711"
+                class="id_author_8601f6e1028a8e8a966f6c33fcd9aec4"
+                cy="-498.6301" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="27.392857"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="3.905655"
+                class="id_author_2c7b78a073a836c702255501f090a619"
+                cy="-933.73315" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.696428" cx="-1089.7493"
+                class="id_author_92bfb5c186ef6dfc4525688369364fe1"
+                cy="354.97125" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="27.392857"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="386.94754"
+                class="id_author_d780182f77b121450849c2b088a444f0"
+                cy="-588.41095" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="582.1097"
+                class="id_author_9428e3f7c2623b68bb03aa48dde227ae"
+                cy="-995.30597" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="343.60248"
+                class="id_author_5cf476916d4dee8d79ff3e6e2f46b667"
+                cy="-851.3237" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.696428" cx="-966.1558"
+                class="id_author_1e31379e322b1e4a84fa4968043b98e2"
+                cy="-926.6837" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="27.392857"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-76.15253"
+                class="id_author_0ee099107dc8c1ee2e06666b965601ef"
+                cy="597.68427" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-179.39107"
+                class="id_author_a4c6e989698f253a890b9173e7f052e5" cy="749.4174"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-217.59729"
+                class="id_author_3b5e692bb82af2562beb3873911ddc83"
+                cy="-1431.281" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-1161.6683"
+                class="id_author_173aa89792b97e1171c7e7a4e3948079"
+                cy="-823.4488" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="879.58044"
+                class="id_author_89c913ced4e4137c76a51d50750b61ea"
+                cy="758.32605" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1005.5505"
+                class="id_author_13a74e2baca782a5aac457961be17a5a" cy="752.733"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.696428" cx="-868.8292"
+                class="id_author_6770ba50556a62ee671fad002af8bf04"
+                cy="-218.34624" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="27.392857"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1083.3484"
+                class="id_author_4490909b57b426ad977791d4727f9488"
+                cy="-680.4293" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="887.94934"
+                class="id_author_c524ef418b2410152716900c7245677b"
+                cy="-654.9056" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-1014.22455"
+                class="id_author_1a310f09ad7ea27fc14052ca9c1daa07"
+                cy="-115.33983" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-480.28"
+                class="id_author_4f9f8f235d12c7429635614cf8156975"
+                cy="1050.6062" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-659.768"
+                class="id_author_b4a3d709976130caa992967a4fecfaa5"
+                cy="-534.1605" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-38.226097"
+                class="id_author_74bfd9ef311ff42cca44edfb24c3fced" cy="698.6848"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="412.14355"
+                class="id_author_00bbff59bcde0f949bc2226f5fc3a755"
+                cy="30.230572" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-225.97217"
+                class="id_author_875462af044569c47f109276cc7e57cd"
+                cy="-419.66077" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-1198.9519"
+                class="id_author_175da787d9592c6b4161b641eb682503"
+                cy="-541.34955" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1605.3258"
+                class="id_author_144ac0f63a6c8179e3ffd1011c77169c"
+                cy="382.86807" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1501.035"
+                class="id_author_056f631f2aa1fe7f52be22e23b9c95d1"
+                cy="480.78613" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-1257.2694"
+                class="id_author_50ea316ccc59596e79b70578c481e188"
+                cy="-662.94055" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-90.481476"
+                class="id_author_f8b5456ce7e3aba2fbcc078722205d15" cy="30.01221"
+                stroke="#a65466" stroke-opacity="1.0" stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="269.6505"
+                class="id_author_f52412c4ff1dacd2111f4951f3db1260"
+                cy="-1507.3403" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-1174.2341"
+                class="id_author_a2489f493a39341d46e077b13c466ced"
+                cy="-239.51526" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-346.82248"
+                class="id_author_7d8bc5f1a8d3787d06ef11c97d4655df"
+                cy="1209.6309" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="983.3168"
+                class="id_author_8596d6c233492e0bd1ce63bc500fc001"
+                cy="243.13974" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="554.95544"
+                class="id_author_5d01e016da53d8a8d99282c4edaa2c81"
+                cy="478.05917" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-25.59729"
+                class="id_author_9121412eb811253e4bf604eeaa9ca13c"
+                cy="1236.4014" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1298.2877"
+                class="id_author_16967a2fdaaadaa3178aaa4f358ee8bf"
+                cy="-348.83835" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-126.68144"
+                class="id_author_999568289fca5fe71cfaa7eca94afe50"
+                cy="-1190.8489" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-717.9549"
+                class="id_author_f5c814ba6546ec5eb07d83c65f119a64"
+                cy="-149.17899" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="661.9608"
+                class="id_author_1116d70f3af1555dd95b361a7619eb1b"
+                cy="-230.26176" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="812.64514"
+                class="id_author_23ba6002aa3583a61db26e957b1fbe43"
+                cy="-1057.2615" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="804.22314"
+                class="id_author_736aea555e8f175cf9e2c3583a8a4095"
+                cy="975.14795" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.696428" cx="-462.62848"
+                class="id_author_dfcd5f6797c0b6708f3bdc019e5ce660"
+                cy="-124.14772" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="27.392857"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-989.519"
+                class="id_author_6bbccd383dbeb26587cdbd63a270ede9"
+                cy="148.62744" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="313.41776"
+                class="id_author_03d74511e7275805990002b86e82a7ba"
+                cy="-80.01733" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="1017.6883"
+                class="id_author_85a28511a44da8a4c6140042a43b0b4b"
+                cy="1075.2122" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-1021.3654"
+                class="id_author_38092ec463dcb1126abe9906b440b7fc"
+                cy="800.21674" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-477.55737"
+                class="id_author_ffe5e140285ce53e4316b22ade8f1f45"
+                cy="1320.0018" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.696428" cx="-845.30383"
+                class="id_author_f1b06d9387901ad80c5b80cd1f737405"
+                cy="109.087875" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="27.392857"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="13.0" cx="-778.2632"
+                class="id_author_5fd49cac88e9505654782f06d2a3b84d"
+                cy="-751.0302" stroke="#a65466" stroke-opacity="1.0"
+                stroke-width="26.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="57" x="-623.209" y="575.52814" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_d83d8e9e01307b6bb7e973992af64308">
+            ads/cft correspondence
+        </text>
+        <text font-size="57" x="177.85376" y="-713.48645" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_d742cf549e17cb53774476a5f36641df">
+            aether (classical element)
+        </text>
+        <text font-size="69" x="1342.3225" y="207.28792" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_1d9e016a0a12f8b654e89042678a893a">
+            chern–simons theory
+        </text>
+        <text font-size="63" x="-819.2086" y="340.42575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_250b0e0effa307968d337127087714cb">
+            classical electromagnetism
+        </text>
+        <text font-size="46" x="-1261.6343" y="313.49487" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_e0df36fcb80a369e9bcead87fbbbacd6">
+            classical field theory
+        </text>
+        <text font-size="63" x="-576.8915" y="1150.8308" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_6c143e14914fb5ca36220fbcb2de1834">
+            classical mechanics
+        </text>
+        <text font-size="57" x="-305.43106" y="-1274.645" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_c08a1d0a0eaafdac71ce1a803dc52927">
+            digital physics
+        </text>
+        <text font-size="75" x="948.3109" y="929.1536" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_7fe39e41577cc2940ad8dd4132439115">
+            dynamo theory
+        </text>
+        <text font-size="46" x="669.69415" y="410.092" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_2cac3c3e82ef96ae5aa7445588fadcf5">
+            electrogravitics
+        </text>
+        <text font-size="51" x="806.23816" y="-173.72525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_e744f898e8a055a26a49c895c285ddd1">
+            ginzburg–landau theory
+        </text>
+        <text font-size="57" x="847.6006" y="-913.1786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_149d5deddfe7580b4e2002313be48f37">
+            graviton
+        </text>
+        <text font-size="57" x="-324.87558" y="-248.69064" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_54d85ad5220660f9b1e057e2a79d8635">
+            interpretations of quantum mec...
+        </text>
+        <text font-size="46" x="505.93164" y="1150.1665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_6742dfc659daa2c9844d75ee5104c984">
+            kinetic theory of gases
+        </text>
+        <text font-size="51" x="-469.82294" y="894.27185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_28940377dbd09be324ad8709a030517f">
+            luminiferous aether
+        </text>
+        <text font-size="46" x="1352.4781" y="-655.0911" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_a6eadc686a75c71d1073356763ca697c">
+            magnetic monopole
+        </text>
+        <text font-size="46" x="-115.53163" y="235.92944" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_3284fa4c8ce7680cd67dfd164a1482ac">
+            physical cosmology
+        </text>
+        <text font-size="41" x="1116.8455" y="308.25208" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_1c75cbfb675d50319333f2ecbe9ccb9e">
+            protoscience
+        </text>
+        <text font-size="41" x="469.22885" y="-425.31143" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_2ca107b796490695c06044285c36509d">
+            pseudoscience
+        </text>
+        <text font-size="41" x="-960.6349" y="-1088.4332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_c48f05b935dd7badc138e8ba0363c546">
+            quantum chromodynamics
+        </text>
+        <text font-size="89" x="-689.1913" y="52.12069" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_450b01387e2d9b4afcf8ade3b9fbbf17">
+            quantum electrodynamics
+        </text>
+        <text font-size="36" x="220.95053" y="-176.18175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_3c75323e7cf0b9d32180fc9e214043bb">
+            quantum mechanics
+        </text>
+        <text font-size="36" x="-355.54053" y="182.62419" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_c947c2614945d4b851f34b956a8140be">
+            quantum thermodynamics
+        </text>
+        <text font-size="36" x="331.5386" y="152.25" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_371adcfdfb3492e83311ec5bef171d3a">
+            relativistic quantum mechanics
+        </text>
+        <text font-size="46" x="-693.3096" y="902.99945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_4a4c8a5deb794c1a5eaa350135085549">
+            scattering theory
+        </text>
+        <text font-size="127" x="-1021.11646" y="-578.61163" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_d98a2b4040f59f1322951e618c99d3e7">
+            standard model
+        </text>
+        <text font-size="46" x="1489.7635" y="-465.65536" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_3a1e3352ab89fd9ba403079f60c301d3">
+            stochastic electrodynamics
+        </text>
+        <text font-size="36" x="-274.21906" y="383.6374" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_31e5fb1946b4e92de72dc80ee9d43c55">
+            string theory
+        </text>
+        <text font-size="69" x="268.74487" y="-1284.0283" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_e077f45adc3b9f23f684aa87f224cb4f">
+            theory of everything
+        </text>
+        <text font-size="69" x="-358.2959" y="685.877" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_5b7438c39d756cc000099b0a4bf657ac">
+            theory of relativity
+        </text>
+        <text font-size="63" x="-101.49321" y="1050.0525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_theory_9c9c1d54f3aa26beb29bb82b3eb088ef">
+            wave–particle duality
+        </text>
+        <text font-size="36" x="1505.7214" y="135.47151" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_17c78e8b1934fecb37c2d2fda7eff6f8">
+            a. weil
+        </text>
+        <text font-size="36" x="-809.8571" y="-333.33322" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_96f5d9db4a18cf0e1879e7d0e35bae13">
+            abdus salam
+        </text>
+        <text font-size="36" x="-1144.4797" y="183.93501" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_655b27de0534bdb916b17f31fff641af">
+            abraham pais
+        </text>
+        <text font-size="63" x="-562.4749" y="393.40305" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_56f1582432d94983a3f45c249e0d76be">
+            albert einstein
+        </text>
+        <text font-size="36" x="1137.6211" y="131.79874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_ed0ff1f81a909a7d6a1adabe4e9418f5">
+            albert schwarz
+        </text>
+        <text font-size="36" x="-57.644035" y="-614.6551" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_e8eaa9ef4629d22e714908c4d56f117c">
+            allison muri
+        </text>
+        <text font-size="36" x="1116.3228" y="973.67596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_dd7c8a297a8d34ba5dc7cd4b45a1e593">
+            andr
+        </text>
+        <text font-size="36" x="885.0958" y="1093.3655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_2f2e3dead9a0de14057b96f159b3d411">
+            andré - marie ampère
+        </text>
+        <text font-size="36" x="616.2745" y="-740.3216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_65fbef05e01fac390cb3fa073fb3e8cf">
+            anthony
+        </text>
+        <text font-size="36" x="-1178.6777" y="-41.01874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_17734b78e4329992411e6931c6e987d1">
+            arnold nordsieck
+        </text>
+        <text font-size="36" x="1103.9618" y="-372.56775" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_bf0e1bd668644504e35e8764ed53a744">
+            boyer
+        </text>
+        <text font-size="36" x="-248.9127" y="845.1311" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_288a92a44c72633ca5df65aeed2cb76e">
+            boyle
+        </text>
+        <text font-size="36" x="681.8423" y="267.15082" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_6ff47afa5dc7daa42cc705a03fca8a9b">
+            brown
+        </text>
+        <text font-size="36" x="-1118.239" y="510.2416" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_421b4235a72b264518d057b13be98499">
+            bruce j. hunt
+        </text>
+        <text font-size="36" x="-520.98096" y="-467.66437" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_90a8db953336c8dabbcf48b1592a8c06">
+            chien
+        </text>
+        <text font-size="41" x="-287.26358" y="1087.8917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_9581afae8cd25231b7d2c7bf22fad9fa">
+            christi
+        </text>
+        <text font-size="36" x="537.38745" y="328.24823" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_b1f4f9a523e36fd969f4573e25af4540">
+            cool
+        </text>
+        <text font-size="36" x="-217.00722" y="481.1135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_e34dbf49259641809d83fc5cce978cc0">
+            dixon
+        </text>
+        <text font-size="36" x="-510.25146" y="-1142.3193" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_720feaa59e934f0b1e9a5d2aa234c585">
+            edward fredkin
+        </text>
+        <text font-size="36" x="62.746395" y="366.12543" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_a71ea9a40f4903ec94a4810001dca488">
+            edwin hubble
+        </text>
+        <text font-size="36" x="499.99808" y="-1456.3774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_7e49dadf2cc69cbae4bff43bb9f7e2e0">
+            ellis
+        </text>
+        <text font-size="36" x="-360.98373" y="48.00365" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_b3b8150ad5b552fb7813f2f569acb6da">
+            enrico fermi
+        </text>
+        <text font-size="36" x="-362.11145" y="-428.40356" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_3bdf99c356acc9a8368ea4bc139c1571">
+            erwin schröding
+        </text>
+        <text font-size="36" x="-146.40399" y="-229.39847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_828cab178783fd2ed9becce099e16922">
+            erwin schrödinger
+        </text>
+        <text font-size="36" x="-532.00116" y="184.96817" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_b5dda3903158106ef74464a83754d683">
+            eugene wigner
+        </text>
+        <text font-size="36" x="-630.77716" y="1271.732" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_bc646be3146f2cf27fd63a9f687ee7ab">
+            euler
+        </text>
+        <text font-size="36" x="-1377.2709" y="379.81796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_1a44c31d804adad139439f5b911c11f0">
+            farada
+        </text>
+        <text font-size="36" x="-580.4958" y="-159.20271" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_c71139b163a83131fd61b901ac95bfc3">
+            felix bloch
+        </text>
+        <text font-size="36" x="367.08316" y="1017.98175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_857b102af3c50af7ad249bc8165ce9fc">
+            francis bacon
+        </text>
+        <text font-size="36" x="203.29407" y="955.169" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_5030957b53cf8f299017ba6157eae082">
+            françois arago
+        </text>
+        <text font-size="36" x="319.0858" y="-402.44263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_6f1d4fe183fb610eb0f4f77b648c6e98">
+            françois magendie
+        </text>
+        <text font-size="36" x="-265.5101" y="-1070.7041" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_d678b45c0140ec54e62abf895d9e4458">
+            fredkin
+        </text>
+        <text font-size="36" x="548.7932" y="-1279.2639" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_858335ac538c055e0897b5a5c4d77ccc">
+            fritzsch
+        </text>
+        <text font-size="36" x="564.0382" y="1028.3344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_42db7cd9baf5dd1edaaeafb9238bfb1b">
+            galileo galile
+        </text>
+        <text font-size="36" x="1017.4992" y="-538.7882" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_ca3fb08ad28186b130d794369445ec3b">
+            gaus
+        </text>
+        <text font-size="36" x="-634.32227" y="-375.9865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_9d668c5961062ed1ab49471cbbfae026">
+            george zwei
+        </text>
+        <text font-size="36" x="-968.5526" y="596.30865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_b433c0076d463c7d30518d483cd7f498">
+            gerard&apos; t hooft
+        </text>
+        <text font-size="36" x="-560.1758" y="-672.17975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_df143a5ebd8feb3d6e2e6ca39658888d">
+            glash
+        </text>
+        <text font-size="36" x="-832.6269" y="1064.0984" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_878bb9050b9accff9303ebacb72d99bf">
+            greenwood
+        </text>
+        <text font-size="36" x="1226.5032" y="-12.261101" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_b72b705144a5977d3e7e20d0d829b9e5">
+            h. simons
+        </text>
+        <text font-size="36" x="63.781166" y="-1404.1593" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_7dfaf467a1eef04dc52555b7e2f31eed">
+            harald
+        </text>
+        <text font-size="36" x="392.92245" y="-1135.6555" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_a1fd40d371b03099040ccd271210df8b">
+            harald fritzsch
+        </text>
+        <text font-size="36" x="1096.748" y="-900.3147" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_73fb108558a4cd60de719b4bce09b5f7">
+            hatfield
+        </text>
+        <text font-size="36" x="130.00446" y="-579.9309" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_8eb23c9db63618a7c828b9ef234c61f5">
+            hobart
+        </text>
+        <text font-size="36" x="-75.72087" y="904.0514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_2bdd4b39af8beeb249eb941e42637827">
+            huygens
+        </text>
+        <text font-size="63" x="-642.8299" y="747.31274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_9d889367cfa905172e5f7862321c7f13">
+            isaac newton
+        </text>
+        <text font-size="36" x="-79.15366" y="490.544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_736b19f69aaca691fecd8400294cc383">
+            jacob
+        </text>
+        <text font-size="41" x="-769.5552" y="461.71548" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_5c6eeb110adf837c6a571679384a1246">
+            james clerk maxwell
+        </text>
+        <text font-size="36" x="1407.6279" y="-37.758995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_8e6c7c3e3bc418d6b52facc052fc124e">
+            james harris simons
+        </text>
+        <text font-size="36" x="-749.6526" y="-1133.1958" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_572ac92956fa908a23aded492974f71b">
+            james joyce
+        </text>
+        <text font-size="36" x="452.39267" y="-275.54727" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_92b6102944956f0581f8b7f95eda78a2">
+            james pettit andrews
+        </text>
+        <text font-size="36" x="75.16755" y="-1228.2039" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_527bd5b5d689e2c32ae974c6229ff785">
+            john
+        </text>
+        <text font-size="36" x="-958.2096" y="-312.74805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_de0a0e2ca0d866c6fb74fe94905fa63e">
+            john clive ward
+        </text>
+        <text font-size="36" x="190.18344" y="-1143.0784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_286c5715e7d418f4dbc6911b41dd81c4">
+            john ellis
+        </text>
+        <text font-size="36" x="-1209.9799" y="-395.65076" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_ccdff99030cd484c33099b3feef6c7fa">
+            john iliopoulos
+        </text>
+        <text font-size="36" x="-897.1213" y="968.4726" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_de9c726d494df903479b9eca5872f790">
+            john tyndall
+        </text>
+        <text font-size="41" x="1178.1946" y="472.5759" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_ee7e4705dd4ac06adfe650c2cdc39bdd">
+            jones
+        </text>
+        <text font-size="36" x="-841.3384" y="1184.1968" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_69f77fe668c8aa5d02d2f205c1adc52d">
+            joseph - louis lagrange
+        </text>
+        <text font-size="36" x="778.0777" y="852.0343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_e0f0e661e73da22a8c591d0a5e81dc54">
+            joseph larmor
+        </text>
+        <text font-size="36" x="-805.1803" y="-493.64035" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_682c3c82d05b4cf65e893441b723e78f">
+            julian schwinger
+        </text>
+        <text font-size="36" x="-515.8779" y="-1382.6604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_7d73fd46a2193a55ff891471f73b0212">
+            konrad zuse
+        </text>
+        <text font-size="36" x="800.2338" y="-303.19467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_42bdbacdfc0ab8d8a7a7309db05931e9">
+            landau
+        </text>
+        <text font-size="36" x="-817.23865" y="686.73035" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_f2099d278b2d08ae1aab9186832deb11">
+            leonard susskind
+        </text>
+        <text font-size="36" x="846.66504" y="-57.226845" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_3814b75f5a4d07d3d270e9931ab6d985">
+            lev gor&apos; k
+        </text>
+        <text font-size="36" x="691.27606" y="-79.48164" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_57459987aab40426ef1cb307b3790ab2">
+            lev landau
+        </text>
+        <text font-size="36" x="-1346.3909" y="192.09854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_f8464fafa00f8ef5e82f0bf5a4f4f308">
+            lord kelvin
+        </text>
+        <text font-size="36" x="291.41306" y="1251.8601" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_ddc709c6b81de25a6234e5ca67702f63">
+            lucretius
+        </text>
+        <text font-size="36" x="1115.5581" y="846.9303" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_501464200a7cab319056c38d043e84d4">
+            marie amp
+        </text>
+        <text font-size="36" x="-245.63977" y="-60.90886" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_3a91048fb1dd326eb77c7bcb22910609">
+            max born
+        </text>
+        <text font-size="36" x="22.206573" y="1151.448" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_f5f504c7ae35a64d63f0f2537921e00b">
+            max planck
+        </text>
+        <text font-size="41" x="1187.8711" y="-491.17282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_8601f6e1028a8e8a966f6c33fcd9aec4">
+            maxwell
+        </text>
+        <text font-size="36" x="3.905655" y="-927.1853" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_2c7b78a073a836c702255501f090a619">
+            michael e
+        </text>
+        <text font-size="41" x="-1089.7493" y="364.594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_92bfb5c186ef6dfc4525688369364fe1">
+            michael faraday
+        </text>
+        <text font-size="36" x="386.94754" y="-581.8631" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_d780182f77b121450849c2b088a444f0">
+            michel
+        </text>
+        <text font-size="36" x="582.1097" y="-986.9681" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_9428e3f7c2623b68bb03aa48dde227ae">
+            morinigo
+        </text>
+        <text font-size="36" x="343.60248" y="-842.98584" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_5cf476916d4dee8d79ff3e6e2f46b667">
+            morley
+        </text>
+        <text font-size="41" x="-966.1558" y="-917.1878" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_1e31379e322b1e4a84fa4968043b98e2">
+            murray gell - mann
+        </text>
+        <text font-size="36" x="-76.15253" y="602.5622" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_0ee099107dc8c1ee2e06666b965601ef">
+            newman
+        </text>
+        <text font-size="36" x="-179.39107" y="755.9653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_a4c6e989698f253a890b9173e7f052e5">
+            nord
+        </text>
+        <text font-size="36" x="-217.59729" y="-1422.9431" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_3b5e692bb82af2562beb3873911ddc83">
+            norman margolus
+        </text>
+        <text font-size="36" x="-1161.6683" y="-815.1109" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_173aa89792b97e1171c7e7a4e3948079">
+            oscar w. greenberg
+        </text>
+        <text font-size="36" x="879.58044" y="766.5585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_89c913ced4e4137c76a51d50750b61ea">
+            patrick b
+        </text>
+        <text font-size="36" x="1005.5505" y="760.9654" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_13a74e2baca782a5aac457961be17a5a">
+            patrick blackett
+        </text>
+        <text font-size="41" x="-868.8292" y="-208.97043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_6770ba50556a62ee671fad002af8bf04">
+            paul dirac
+        </text>
+        <text font-size="36" x="1083.3484" y="-672.1969" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_4490909b57b426ad977791d4727f9488">
+            pierre curie
+        </text>
+        <text font-size="36" x="887.94934" y="-648.3577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_c524ef418b2410152716900c7245677b">
+            randall
+        </text>
+        <text font-size="36" x="-1014.22455" y="-106.89061" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_1a310f09ad7ea27fc14052ca9c1daa07">
+            richard feynman
+        </text>
+        <text font-size="36" x="-480.28" y="1058.9441" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_4f9f8f235d12c7429635614cf8156975">
+            robert boyle
+        </text>
+        <text font-size="36" x="-659.768" y="-527.6127" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_b4a3d709976130caa992967a4fecfaa5">
+            robert mills
+        </text>
+        <text font-size="36" x="-38.226097" y="703.56274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_74bfd9ef311ff42cca44edfb24c3fced">
+            rosen
+        </text>
+        <text font-size="36" x="412.14355" y="36.778423" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_00bbff59bcde0f949bc2226f5fc3a755">
+            schr
+        </text>
+        <text font-size="36" x="-225.97217" y="-413.0719" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_875462af044569c47f109276cc7e57cd">
+            schrö
+        </text>
+        <text font-size="36" x="-1198.9519" y="-533.01166" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_175da787d9592c6b4161b641eb682503">
+            sheldon glashow
+        </text>
+        <text font-size="36" x="1605.3258" y="389.41592" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_144ac0f63a6c8179e3ffd1011c77169c">
+            shen chern
+        </text>
+        <text font-size="36" x="1501.035" y="489.12402" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_056f631f2aa1fe7f52be22e23b9c95d1">
+            shiing
+        </text>
+        <text font-size="36" x="-1257.2694" y="-654.60266" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_50ea316ccc59596e79b70578c481e188">
+            shiung wu
+        </text>
+        <text font-size="36" x="-90.481476" y="38.244633" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_f8b5456ce7e3aba2fbcc078722205d15">
+            slipher
+        </text>
+        <text font-size="36" x="269.6505" y="-1500.936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_f52412c4ff1dacd2111f4951f3db1260">
+            stan
+        </text>
+        <text font-size="36" x="-1174.2341" y="-231.17737" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_a2489f493a39341d46e077b13c466ced">
+            steven weinberg
+        </text>
+        <text font-size="36" x="-346.82248" y="1217.9688" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_7d8bc5f1a8d3787d06ef11c97d4655df">
+            taylor
+        </text>
+        <text font-size="36" x="983.3168" y="249.68759" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_8596d6c233492e0bd1ce63bc500fc001">
+            thomas kuhn
+        </text>
+        <text font-size="36" x="554.95544" y="484.60703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_5d01e016da53d8a8d99282c4edaa2c81">
+            thomas townsend brown
+        </text>
+        <text font-size="36" x="-25.59729" y="1244.7393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_9121412eb811253e4bf604eeaa9ca13c">
+            thomas young
+        </text>
+        <text font-size="36" x="1298.2877" y="-340.50046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_16967a2fdaaadaa3178aaa4f358ee8bf">
+            timothy h
+        </text>
+        <text font-size="36" x="-126.68144" y="-1184.4446" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_999568289fca5fe71cfaa7eca94afe50">
+            tommas
+        </text>
+        <text font-size="36" x="-717.9549" y="-140.83524" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_f5c814ba6546ec5eb07d83c65f119a64">
+            victor weisskopf
+        </text>
+        <text font-size="36" x="661.9608" y="-223.71391" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_1116d70f3af1555dd95b361a7619eb1b">
+            vita
+        </text>
+        <text font-size="36" x="812.64514" y="-1050.5935" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_23ba6002aa3583a61db26e957b1fbe43">
+            wagner
+        </text>
+        <text font-size="36" x="804.22314" y="981.6958" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_736aea555e8f175cf9e2c3583a8a4095">
+            walter m. elsasser
+        </text>
+        <text font-size="41" x="-462.62848" y="-114.65179" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_dfcd5f6797c0b6708f3bdc019e5ce660">
+            werner heisenberg
+        </text>
+        <text font-size="36" x="-989.519" y="155.1753" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_6bbccd383dbeb26587cdbd63a270ede9">
+            whittaker
+        </text>
+        <text font-size="36" x="313.41776" y="-71.679436" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_03d74511e7275805990002b86e82a7ba">
+            wign
+        </text>
+        <text font-size="36" x="1017.6883" y="1083.55" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_85a28511a44da8a4c6140042a43b0b4b">
+            william gilbert
+        </text>
+        <text font-size="36" x="-1021.3654" y="806.7646" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_38092ec463dcb1126abe9906b440b7fc">
+            william herschel
+        </text>
+        <text font-size="36" x="-477.55737" y="1326.5497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_ffe5e140285ce53e4316b22ade8f1f45">
+            william rowan hamilton
+        </text>
+        <text font-size="41" x="-845.30383" y="118.7106" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_f1b06d9387901ad80c5b80cd1f737405">
+            wolfgang pauli
+        </text>
+        <text font-size="36" x="-778.2632" y="-742.6923" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_author_5fd49cac88e9505654782f06d2a3b84d">
+            yang chen
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="UTF-8"?><gexf xmlns="http://www.gexf.net/1.1draft" version="1.1" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd">
+<meta lastmodifieddate="2011-06-15"><creator>GraphMaker</creator><description>Jacomy Mathieu, Sciences Po Medialab and WebAtlas</description></meta>
+<graph defaultedgetype="undirected"  mode="static">
+<attributes class="node" mode="static">
+<attribute id="attr_type" title="Type" type="string"></attribute>
+<attribute id="global_occurrences" title="Occurrences Count" type="integer"></attribute>
+</attributes>
+<attributes class="edge" mode="static">
+<attribute id="attr_type" title="Type" type="string"></attribute>
+<attribute id="matchings_count" title="Matchings Count" type="integer"></attribute>
+</attributes>
+<nodes>
+<node id="theory_d83d8e9e01307b6bb7e973992af64308" label="ads/cft correspondence">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="5"></attvalue>
+</attvalues>
+</node>
+<node id="theory_d742cf549e17cb53774476a5f36641df" label="aether (classical element)">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="5"></attvalue>
+</attvalues>
+</node>
+<node id="theory_1d9e016a0a12f8b654e89042678a893a" label="chern–simons theory">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="7"></attvalue>
+</attvalues>
+</node>
+<node id="theory_250b0e0effa307968d337127087714cb" label="classical electromagnetism">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="6"></attvalue>
+</attvalues>
+</node>
+<node id="theory_e0df36fcb80a369e9bcead87fbbbacd6" label="classical field theory">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="theory_6c143e14914fb5ca36220fbcb2de1834" label="classical mechanics">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="6"></attvalue>
+</attvalues>
+</node>
+<node id="theory_c08a1d0a0eaafdac71ce1a803dc52927" label="digital physics">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="5"></attvalue>
+</attvalues>
+</node>
+<node id="theory_7fe39e41577cc2940ad8dd4132439115" label="dynamo theory">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="8"></attvalue>
+</attvalues>
+</node>
+<node id="theory_2cac3c3e82ef96ae5aa7445588fadcf5" label="electrogravitics">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="theory_e744f898e8a055a26a49c895c285ddd1" label="ginzburg–landau theory">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="4"></attvalue>
+</attvalues>
+</node>
+<node id="theory_149d5deddfe7580b4e2002313be48f37" label="graviton">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="5"></attvalue>
+</attvalues>
+</node>
+<node id="theory_54d85ad5220660f9b1e057e2a79d8635" label="interpretations of quantum mechanics">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="5"></attvalue>
+</attvalues>
+</node>
+<node id="theory_6742dfc659daa2c9844d75ee5104c984" label="kinetic theory of gases">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="theory_28940377dbd09be324ad8709a030517f" label="luminiferous aether">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="4"></attvalue>
+</attvalues>
+</node>
+<node id="theory_a6eadc686a75c71d1073356763ca697c" label="magnetic monopole">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="theory_3284fa4c8ce7680cd67dfd164a1482ac" label="physical cosmology">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="theory_1c75cbfb675d50319333f2ecbe9ccb9e" label="protoscience">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="theory_2ca107b796490695c06044285c36509d" label="pseudoscience">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="theory_c48f05b935dd7badc138e8ba0363c546" label="quantum chromodynamics">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="theory_450b01387e2d9b4afcf8ade3b9fbbf17" label="quantum electrodynamics">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="10"></attvalue>
+</attvalues>
+</node>
+<node id="theory_3c75323e7cf0b9d32180fc9e214043bb" label="quantum mechanics">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="theory_c947c2614945d4b851f34b956a8140be" label="quantum thermodynamics">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="theory_371adcfdfb3492e83311ec5bef171d3a" label="relativistic quantum mechanics">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="theory_4a4c8a5deb794c1a5eaa350135085549" label="scattering theory">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="theory_d98a2b4040f59f1322951e618c99d3e7" label="standard model">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="15"></attvalue>
+</attvalues>
+</node>
+<node id="theory_3a1e3352ab89fd9ba403079f60c301d3" label="stochastic electrodynamics">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="theory_31e5fb1946b4e92de72dc80ee9d43c55" label="string theory">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="theory_e077f45adc3b9f23f684aa87f224cb4f" label="theory of everything">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="7"></attvalue>
+</attvalues>
+</node>
+<node id="theory_5b7438c39d756cc000099b0a4bf657ac" label="theory of relativity">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="7"></attvalue>
+</attvalues>
+</node>
+<node id="theory_9c9c1d54f3aa26beb29bb82b3eb088ef" label="wave–particle duality">
+<attvalues>
+<attvalue for="attr_type" value="Theory"></attvalue>
+<attvalue for="global_occurrences" value="6"></attvalue>
+</attvalues>
+</node>
+<node id="author_17c78e8b1934fecb37c2d2fda7eff6f8" label="a. weil">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_96f5d9db4a18cf0e1879e7d0e35bae13" label="abdus salam">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_655b27de0534bdb916b17f31fff641af" label="abraham pais">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_56f1582432d94983a3f45c249e0d76be" label="albert einstein">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="6"></attvalue>
+</attvalues>
+</node>
+<node id="author_ed0ff1f81a909a7d6a1adabe4e9418f5" label="albert schwarz">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_e8eaa9ef4629d22e714908c4d56f117c" label="allison muri">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_dd7c8a297a8d34ba5dc7cd4b45a1e593" label="andr">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_2f2e3dead9a0de14057b96f159b3d411" label="andré - marie ampère">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_65fbef05e01fac390cb3fa073fb3e8cf" label="anthony">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_17734b78e4329992411e6931c6e987d1" label="arnold nordsieck">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_bf0e1bd668644504e35e8764ed53a744" label="boyer">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_288a92a44c72633ca5df65aeed2cb76e" label="boyle">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_6ff47afa5dc7daa42cc705a03fca8a9b" label="brown">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_421b4235a72b264518d057b13be98499" label="bruce j. hunt">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_90a8db953336c8dabbcf48b1592a8c06" label="chien">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_9581afae8cd25231b7d2c7bf22fad9fa" label="christi">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="author_b1f4f9a523e36fd969f4573e25af4540" label="cool">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_e34dbf49259641809d83fc5cce978cc0" label="dixon">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_720feaa59e934f0b1e9a5d2aa234c585" label="edward fredkin">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_a71ea9a40f4903ec94a4810001dca488" label="edwin hubble">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_7e49dadf2cc69cbae4bff43bb9f7e2e0" label="ellis">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_b3b8150ad5b552fb7813f2f569acb6da" label="enrico fermi">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_3bdf99c356acc9a8368ea4bc139c1571" label="erwin schröding">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_828cab178783fd2ed9becce099e16922" label="erwin schrödinger">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_b5dda3903158106ef74464a83754d683" label="eugene wigner">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_bc646be3146f2cf27fd63a9f687ee7ab" label="euler">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_1a44c31d804adad139439f5b911c11f0" label="farada">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_c71139b163a83131fd61b901ac95bfc3" label="felix bloch">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_857b102af3c50af7ad249bc8165ce9fc" label="francis bacon">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_5030957b53cf8f299017ba6157eae082" label="françois arago">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_6f1d4fe183fb610eb0f4f77b648c6e98" label="françois magendie">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_d678b45c0140ec54e62abf895d9e4458" label="fredkin">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_858335ac538c055e0897b5a5c4d77ccc" label="fritzsch">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_42db7cd9baf5dd1edaaeafb9238bfb1b" label="galileo galile">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_ca3fb08ad28186b130d794369445ec3b" label="gaus">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_9d668c5961062ed1ab49471cbbfae026" label="george zwei">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_b433c0076d463c7d30518d483cd7f498" label="gerard ' t hooft">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_df143a5ebd8feb3d6e2e6ca39658888d" label="glash">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_878bb9050b9accff9303ebacb72d99bf" label="greenwood">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_b72b705144a5977d3e7e20d0d829b9e5" label="h. simons">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_7dfaf467a1eef04dc52555b7e2f31eed" label="harald">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_a1fd40d371b03099040ccd271210df8b" label="harald fritzsch">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_73fb108558a4cd60de719b4bce09b5f7" label="hatfield">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_8eb23c9db63618a7c828b9ef234c61f5" label="hobart">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_2bdd4b39af8beeb249eb941e42637827" label="huygens">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_9d889367cfa905172e5f7862321c7f13" label="isaac newton">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="6"></attvalue>
+</attvalues>
+</node>
+<node id="author_736b19f69aaca691fecd8400294cc383" label="jacob">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_5c6eeb110adf837c6a571679384a1246" label="james clerk maxwell">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="author_8e6c7c3e3bc418d6b52facc052fc124e" label="james harris simons">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_572ac92956fa908a23aded492974f71b" label="james joyce">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_92b6102944956f0581f8b7f95eda78a2" label="james pettit andrews">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_527bd5b5d689e2c32ae974c6229ff785" label="john">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_de0a0e2ca0d866c6fb74fe94905fa63e" label="john clive ward">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_286c5715e7d418f4dbc6911b41dd81c4" label="john ellis">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_ccdff99030cd484c33099b3feef6c7fa" label="john iliopoulos">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_de9c726d494df903479b9eca5872f790" label="john tyndall">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_ee7e4705dd4ac06adfe650c2cdc39bdd" label="jones">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="author_69f77fe668c8aa5d02d2f205c1adc52d" label="joseph - louis lagrange">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_e0f0e661e73da22a8c591d0a5e81dc54" label="joseph larmor">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_682c3c82d05b4cf65e893441b723e78f" label="julian schwinger">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_7d73fd46a2193a55ff891471f73b0212" label="konrad zuse">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_42bdbacdfc0ab8d8a7a7309db05931e9" label="landau">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_f2099d278b2d08ae1aab9186832deb11" label="leonard susskind">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_3814b75f5a4d07d3d270e9931ab6d985" label="lev gor ' k">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_57459987aab40426ef1cb307b3790ab2" label="lev landau">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_f8464fafa00f8ef5e82f0bf5a4f4f308" label="lord kelvin">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_ddc709c6b81de25a6234e5ca67702f63" label="lucretius">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_501464200a7cab319056c38d043e84d4" label="marie amp">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_3a91048fb1dd326eb77c7bcb22910609" label="max born">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_f5f504c7ae35a64d63f0f2537921e00b" label="max planck">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_8601f6e1028a8e8a966f6c33fcd9aec4" label="maxwell">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="author_2c7b78a073a836c702255501f090a619" label="michael e">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_92bfb5c186ef6dfc4525688369364fe1" label="michael faraday">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="author_d780182f77b121450849c2b088a444f0" label="michel">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_9428e3f7c2623b68bb03aa48dde227ae" label="morinigo">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_5cf476916d4dee8d79ff3e6e2f46b667" label="morley">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_1e31379e322b1e4a84fa4968043b98e2" label="murray gell - mann">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="author_0ee099107dc8c1ee2e06666b965601ef" label="newman">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_a4c6e989698f253a890b9173e7f052e5" label="nord">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_3b5e692bb82af2562beb3873911ddc83" label="norman margolus">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_173aa89792b97e1171c7e7a4e3948079" label="oscar w. greenberg">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_89c913ced4e4137c76a51d50750b61ea" label="patrick b">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_13a74e2baca782a5aac457961be17a5a" label="patrick blackett">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_6770ba50556a62ee671fad002af8bf04" label="paul dirac">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="author_4490909b57b426ad977791d4727f9488" label="pierre curie">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_c524ef418b2410152716900c7245677b" label="randall">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_1a310f09ad7ea27fc14052ca9c1daa07" label="richard feynman">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_4f9f8f235d12c7429635614cf8156975" label="robert boyle">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_b4a3d709976130caa992967a4fecfaa5" label="robert mills">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_74bfd9ef311ff42cca44edfb24c3fced" label="rosen">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_00bbff59bcde0f949bc2226f5fc3a755" label="schr">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_875462af044569c47f109276cc7e57cd" label="schrö">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_175da787d9592c6b4161b641eb682503" label="sheldon glashow">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_144ac0f63a6c8179e3ffd1011c77169c" label="shen chern">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_056f631f2aa1fe7f52be22e23b9c95d1" label="shiing">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_50ea316ccc59596e79b70578c481e188" label="shiung wu">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_f8b5456ce7e3aba2fbcc078722205d15" label="slipher">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_f52412c4ff1dacd2111f4951f3db1260" label="stan">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_a2489f493a39341d46e077b13c466ced" label="steven weinberg">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_7d8bc5f1a8d3787d06ef11c97d4655df" label="taylor">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_8596d6c233492e0bd1ce63bc500fc001" label="thomas kuhn">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_5d01e016da53d8a8d99282c4edaa2c81" label="thomas townsend brown">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_9121412eb811253e4bf604eeaa9ca13c" label="thomas young">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_16967a2fdaaadaa3178aaa4f358ee8bf" label="timothy h">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_999568289fca5fe71cfaa7eca94afe50" label="tommas">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_f5c814ba6546ec5eb07d83c65f119a64" label="victor weisskopf">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_1116d70f3af1555dd95b361a7619eb1b" label="vita">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_23ba6002aa3583a61db26e957b1fbe43" label="wagner">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_736aea555e8f175cf9e2c3583a8a4095" label="walter m. elsasser">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_dfcd5f6797c0b6708f3bdc019e5ce660" label="werner heisenberg">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="author_6bbccd383dbeb26587cdbd63a270ede9" label="whittaker">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_03d74511e7275805990002b86e82a7ba" label="wign">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_85a28511a44da8a4c6140042a43b0b4b" label="william gilbert">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_38092ec463dcb1126abe9906b440b7fc" label="william herschel">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_ffe5e140285ce53e4316b22ade8f1f45" label="william rowan hamilton">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="author_f1b06d9387901ad80c5b80cd1f737405" label="wolfgang pauli">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="author_5fd49cac88e9505654782f06d2a3b84d" label="yang chen">
+<attvalues>
+<attvalue for="attr_type" value="Author"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+</nodes>
+<edges>
+<edge source="theory_d83d8e9e01307b6bb7e973992af64308" target="author_56f1582432d94983a3f45c249e0d76be" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d83d8e9e01307b6bb7e973992af64308" target="author_b433c0076d463c7d30518d483cd7f498" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d83d8e9e01307b6bb7e973992af64308" target="author_9d889367cfa905172e5f7862321c7f13" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d83d8e9e01307b6bb7e973992af64308" target="author_5c6eeb110adf837c6a571679384a1246" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d83d8e9e01307b6bb7e973992af64308" target="author_f2099d278b2d08ae1aab9186832deb11" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d742cf549e17cb53774476a5f36641df" target="author_e8eaa9ef4629d22e714908c4d56f117c" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d742cf549e17cb53774476a5f36641df" target="author_8eb23c9db63618a7c828b9ef234c61f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d742cf549e17cb53774476a5f36641df" target="author_2c7b78a073a836c702255501f090a619" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d742cf549e17cb53774476a5f36641df" target="author_d780182f77b121450849c2b088a444f0" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d742cf549e17cb53774476a5f36641df" target="author_5cf476916d4dee8d79ff3e6e2f46b667" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_1d9e016a0a12f8b654e89042678a893a" target="author_17c78e8b1934fecb37c2d2fda7eff6f8" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_1d9e016a0a12f8b654e89042678a893a" target="author_ed0ff1f81a909a7d6a1adabe4e9418f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_1d9e016a0a12f8b654e89042678a893a" target="author_b72b705144a5977d3e7e20d0d829b9e5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_1d9e016a0a12f8b654e89042678a893a" target="author_8e6c7c3e3bc418d6b52facc052fc124e" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_1d9e016a0a12f8b654e89042678a893a" target="author_ee7e4705dd4ac06adfe650c2cdc39bdd" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_1d9e016a0a12f8b654e89042678a893a" target="author_144ac0f63a6c8179e3ffd1011c77169c" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_1d9e016a0a12f8b654e89042678a893a" target="author_056f631f2aa1fe7f52be22e23b9c95d1" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_250b0e0effa307968d337127087714cb" target="author_655b27de0534bdb916b17f31fff641af" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_250b0e0effa307968d337127087714cb" target="author_421b4235a72b264518d057b13be98499" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_250b0e0effa307968d337127087714cb" target="author_5c6eeb110adf837c6a571679384a1246" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_250b0e0effa307968d337127087714cb" target="author_92bfb5c186ef6dfc4525688369364fe1" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_250b0e0effa307968d337127087714cb" target="author_6bbccd383dbeb26587cdbd63a270ede9" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_250b0e0effa307968d337127087714cb" target="author_f1b06d9387901ad80c5b80cd1f737405" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e0df36fcb80a369e9bcead87fbbbacd6" target="author_1a44c31d804adad139439f5b911c11f0" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e0df36fcb80a369e9bcead87fbbbacd6" target="author_f8464fafa00f8ef5e82f0bf5a4f4f308" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e0df36fcb80a369e9bcead87fbbbacd6" target="author_92bfb5c186ef6dfc4525688369364fe1" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_6c143e14914fb5ca36220fbcb2de1834" target="author_bc646be3146f2cf27fd63a9f687ee7ab" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_6c143e14914fb5ca36220fbcb2de1834" target="author_878bb9050b9accff9303ebacb72d99bf" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_6c143e14914fb5ca36220fbcb2de1834" target="author_9d889367cfa905172e5f7862321c7f13" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_6c143e14914fb5ca36220fbcb2de1834" target="author_69f77fe668c8aa5d02d2f205c1adc52d" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_6c143e14914fb5ca36220fbcb2de1834" target="author_7d8bc5f1a8d3787d06ef11c97d4655df" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_6c143e14914fb5ca36220fbcb2de1834" target="author_ffe5e140285ce53e4316b22ade8f1f45" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_c08a1d0a0eaafdac71ce1a803dc52927" target="author_720feaa59e934f0b1e9a5d2aa234c585" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_c08a1d0a0eaafdac71ce1a803dc52927" target="author_d678b45c0140ec54e62abf895d9e4458" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_c08a1d0a0eaafdac71ce1a803dc52927" target="author_7d73fd46a2193a55ff891471f73b0212" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_c08a1d0a0eaafdac71ce1a803dc52927" target="author_3b5e692bb82af2562beb3873911ddc83" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_c08a1d0a0eaafdac71ce1a803dc52927" target="author_999568289fca5fe71cfaa7eca94afe50" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_7fe39e41577cc2940ad8dd4132439115" target="author_dd7c8a297a8d34ba5dc7cd4b45a1e593" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_7fe39e41577cc2940ad8dd4132439115" target="author_2f2e3dead9a0de14057b96f159b3d411" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_7fe39e41577cc2940ad8dd4132439115" target="author_e0f0e661e73da22a8c591d0a5e81dc54" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_7fe39e41577cc2940ad8dd4132439115" target="author_501464200a7cab319056c38d043e84d4" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_7fe39e41577cc2940ad8dd4132439115" target="author_89c913ced4e4137c76a51d50750b61ea" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_7fe39e41577cc2940ad8dd4132439115" target="author_13a74e2baca782a5aac457961be17a5a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_7fe39e41577cc2940ad8dd4132439115" target="author_736aea555e8f175cf9e2c3583a8a4095" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_7fe39e41577cc2940ad8dd4132439115" target="author_85a28511a44da8a4c6140042a43b0b4b" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_2cac3c3e82ef96ae5aa7445588fadcf5" target="author_6ff47afa5dc7daa42cc705a03fca8a9b" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_2cac3c3e82ef96ae5aa7445588fadcf5" target="author_b1f4f9a523e36fd969f4573e25af4540" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_2cac3c3e82ef96ae5aa7445588fadcf5" target="author_5d01e016da53d8a8d99282c4edaa2c81" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e744f898e8a055a26a49c895c285ddd1" target="author_42bdbacdfc0ab8d8a7a7309db05931e9" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e744f898e8a055a26a49c895c285ddd1" target="author_3814b75f5a4d07d3d270e9931ab6d985" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e744f898e8a055a26a49c895c285ddd1" target="author_57459987aab40426ef1cb307b3790ab2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e744f898e8a055a26a49c895c285ddd1" target="author_1116d70f3af1555dd95b361a7619eb1b" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_149d5deddfe7580b4e2002313be48f37" target="author_65fbef05e01fac390cb3fa073fb3e8cf" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_149d5deddfe7580b4e2002313be48f37" target="author_73fb108558a4cd60de719b4bce09b5f7" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_149d5deddfe7580b4e2002313be48f37" target="author_9428e3f7c2623b68bb03aa48dde227ae" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_149d5deddfe7580b4e2002313be48f37" target="author_c524ef418b2410152716900c7245677b" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_149d5deddfe7580b4e2002313be48f37" target="author_23ba6002aa3583a61db26e957b1fbe43" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_54d85ad5220660f9b1e057e2a79d8635" target="author_3bdf99c356acc9a8368ea4bc139c1571" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_54d85ad5220660f9b1e057e2a79d8635" target="author_828cab178783fd2ed9becce099e16922" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_54d85ad5220660f9b1e057e2a79d8635" target="author_3a91048fb1dd326eb77c7bcb22910609" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_54d85ad5220660f9b1e057e2a79d8635" target="author_875462af044569c47f109276cc7e57cd" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_54d85ad5220660f9b1e057e2a79d8635" target="author_dfcd5f6797c0b6708f3bdc019e5ce660" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_6742dfc659daa2c9844d75ee5104c984" target="author_857b102af3c50af7ad249bc8165ce9fc" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_6742dfc659daa2c9844d75ee5104c984" target="author_42db7cd9baf5dd1edaaeafb9238bfb1b" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_6742dfc659daa2c9844d75ee5104c984" target="author_ddc709c6b81de25a6234e5ca67702f63" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_28940377dbd09be324ad8709a030517f" target="author_288a92a44c72633ca5df65aeed2cb76e" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_28940377dbd09be324ad8709a030517f" target="author_9581afae8cd25231b7d2c7bf22fad9fa" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_28940377dbd09be324ad8709a030517f" target="author_9d889367cfa905172e5f7862321c7f13" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_28940377dbd09be324ad8709a030517f" target="author_4f9f8f235d12c7429635614cf8156975" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_a6eadc686a75c71d1073356763ca697c" target="author_ca3fb08ad28186b130d794369445ec3b" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_a6eadc686a75c71d1073356763ca697c" target="author_8601f6e1028a8e8a966f6c33fcd9aec4" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_a6eadc686a75c71d1073356763ca697c" target="author_4490909b57b426ad977791d4727f9488" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_3284fa4c8ce7680cd67dfd164a1482ac" target="author_56f1582432d94983a3f45c249e0d76be" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_3284fa4c8ce7680cd67dfd164a1482ac" target="author_a71ea9a40f4903ec94a4810001dca488" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_3284fa4c8ce7680cd67dfd164a1482ac" target="author_f8b5456ce7e3aba2fbcc078722205d15" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_1c75cbfb675d50319333f2ecbe9ccb9e" target="author_ee7e4705dd4ac06adfe650c2cdc39bdd" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_1c75cbfb675d50319333f2ecbe9ccb9e" target="author_8596d6c233492e0bd1ce63bc500fc001" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_2ca107b796490695c06044285c36509d" target="author_6f1d4fe183fb610eb0f4f77b648c6e98" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_2ca107b796490695c06044285c36509d" target="author_92b6102944956f0581f8b7f95eda78a2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_c48f05b935dd7badc138e8ba0363c546" target="author_572ac92956fa908a23aded492974f71b" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_c48f05b935dd7badc138e8ba0363c546" target="author_1e31379e322b1e4a84fa4968043b98e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_450b01387e2d9b4afcf8ade3b9fbbf17" target="author_56f1582432d94983a3f45c249e0d76be" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_450b01387e2d9b4afcf8ade3b9fbbf17" target="author_17734b78e4329992411e6931c6e987d1" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_450b01387e2d9b4afcf8ade3b9fbbf17" target="author_b3b8150ad5b552fb7813f2f569acb6da" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_450b01387e2d9b4afcf8ade3b9fbbf17" target="author_b5dda3903158106ef74464a83754d683" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_450b01387e2d9b4afcf8ade3b9fbbf17" target="author_c71139b163a83131fd61b901ac95bfc3" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_450b01387e2d9b4afcf8ade3b9fbbf17" target="author_6770ba50556a62ee671fad002af8bf04" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_450b01387e2d9b4afcf8ade3b9fbbf17" target="author_1a310f09ad7ea27fc14052ca9c1daa07" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_450b01387e2d9b4afcf8ade3b9fbbf17" target="author_f5c814ba6546ec5eb07d83c65f119a64" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_450b01387e2d9b4afcf8ade3b9fbbf17" target="author_dfcd5f6797c0b6708f3bdc019e5ce660" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_450b01387e2d9b4afcf8ade3b9fbbf17" target="author_f1b06d9387901ad80c5b80cd1f737405" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_3c75323e7cf0b9d32180fc9e214043bb" target="author_03d74511e7275805990002b86e82a7ba" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_c947c2614945d4b851f34b956a8140be" target="author_56f1582432d94983a3f45c249e0d76be" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_371adcfdfb3492e83311ec5bef171d3a" target="author_00bbff59bcde0f949bc2226f5fc3a755" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_4a4c8a5deb794c1a5eaa350135085549" target="author_9d889367cfa905172e5f7862321c7f13" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_4a4c8a5deb794c1a5eaa350135085549" target="author_de9c726d494df903479b9eca5872f790" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_4a4c8a5deb794c1a5eaa350135085549" target="author_38092ec463dcb1126abe9906b440b7fc" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_96f5d9db4a18cf0e1879e7d0e35bae13" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_90a8db953336c8dabbcf48b1592a8c06" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_9d668c5961062ed1ab49471cbbfae026" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_df143a5ebd8feb3d6e2e6ca39658888d" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_de0a0e2ca0d866c6fb74fe94905fa63e" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_ccdff99030cd484c33099b3feef6c7fa" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_682c3c82d05b4cf65e893441b723e78f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_1e31379e322b1e4a84fa4968043b98e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_173aa89792b97e1171c7e7a4e3948079" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_6770ba50556a62ee671fad002af8bf04" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_b4a3d709976130caa992967a4fecfaa5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_175da787d9592c6b4161b641eb682503" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_50ea316ccc59596e79b70578c481e188" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_a2489f493a39341d46e077b13c466ced" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_d98a2b4040f59f1322951e618c99d3e7" target="author_5fd49cac88e9505654782f06d2a3b84d" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_3a1e3352ab89fd9ba403079f60c301d3" target="author_bf0e1bd668644504e35e8764ed53a744" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_3a1e3352ab89fd9ba403079f60c301d3" target="author_8601f6e1028a8e8a966f6c33fcd9aec4" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_3a1e3352ab89fd9ba403079f60c301d3" target="author_16967a2fdaaadaa3178aaa4f358ee8bf" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_31e5fb1946b4e92de72dc80ee9d43c55" target="author_56f1582432d94983a3f45c249e0d76be" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e077f45adc3b9f23f684aa87f224cb4f" target="author_7e49dadf2cc69cbae4bff43bb9f7e2e0" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e077f45adc3b9f23f684aa87f224cb4f" target="author_858335ac538c055e0897b5a5c4d77ccc" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e077f45adc3b9f23f684aa87f224cb4f" target="author_7dfaf467a1eef04dc52555b7e2f31eed" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e077f45adc3b9f23f684aa87f224cb4f" target="author_a1fd40d371b03099040ccd271210df8b" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e077f45adc3b9f23f684aa87f224cb4f" target="author_527bd5b5d689e2c32ae974c6229ff785" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e077f45adc3b9f23f684aa87f224cb4f" target="author_286c5715e7d418f4dbc6911b41dd81c4" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_e077f45adc3b9f23f684aa87f224cb4f" target="author_f52412c4ff1dacd2111f4951f3db1260" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_5b7438c39d756cc000099b0a4bf657ac" target="author_56f1582432d94983a3f45c249e0d76be" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_5b7438c39d756cc000099b0a4bf657ac" target="author_e34dbf49259641809d83fc5cce978cc0" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_5b7438c39d756cc000099b0a4bf657ac" target="author_9d889367cfa905172e5f7862321c7f13" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_5b7438c39d756cc000099b0a4bf657ac" target="author_736b19f69aaca691fecd8400294cc383" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_5b7438c39d756cc000099b0a4bf657ac" target="author_0ee099107dc8c1ee2e06666b965601ef" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_5b7438c39d756cc000099b0a4bf657ac" target="author_a4c6e989698f253a890b9173e7f052e5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_5b7438c39d756cc000099b0a4bf657ac" target="author_74bfd9ef311ff42cca44edfb24c3fced" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_9c9c1d54f3aa26beb29bb82b3eb088ef" target="author_9581afae8cd25231b7d2c7bf22fad9fa" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_9c9c1d54f3aa26beb29bb82b3eb088ef" target="author_5030957b53cf8f299017ba6157eae082" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_9c9c1d54f3aa26beb29bb82b3eb088ef" target="author_2bdd4b39af8beeb249eb941e42637827" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_9c9c1d54f3aa26beb29bb82b3eb088ef" target="author_9d889367cfa905172e5f7862321c7f13" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_9c9c1d54f3aa26beb29bb82b3eb088ef" target="author_f5f504c7ae35a64d63f0f2537921e00b" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="theory_9c9c1d54f3aa26beb29bb82b3eb088ef" target="author_9121412eb811253e4bf604eeaa9ca13c" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+</edges>
+</graph></gexf>
